@@ -1,0 +1,15 @@
+.DS_Store
+._*
+.build/
+dist/
+RELEASES/
+.vscode/
+__pycache__/
+*.pyc
+.ui-test-artifacts/
+*.p12
+*.p8
+*.key
+*.mobileprovision
+.env
+.env.*

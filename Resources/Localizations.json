@@ -1,0 +1,1894 @@
+{
+  "Wird geladen …": {
+    "de": "Wird geladen …",
+    "en": "Loading …"
+  },
+  "Nicht lesbar – «Aktualisieren» zum Wiederholen": {
+    "de": "Nicht lesbar – «Aktualisieren» zum Wiederholen",
+    "en": "Unreadable – use “Refresh” to try again"
+  },
+  "Die Verbindung ist nicht mehr verfügbar.": {
+    "de": "Die Verbindung ist nicht mehr verfügbar.",
+    "en": "The connection is no longer available."
+  },
+  "Live-Sync: aus": {
+    "de": "Live-Sync: aus",
+    "en": "Live sync: off"
+  },
+  "Nicht verbunden": {
+    "de": "Nicht verbunden",
+    "en": "Not connected"
+  },
+  "Beim Verbinden wird das Programm auf dem M5 angehalten. «Neu starten» startet MicroPython neu.": {
+    "de": "Beim Verbinden wird das Programm auf dem M5 angehalten. «Neu starten» startet MicroPython neu.",
+    "en": "Connecting stops the program on the M5. “Restart” restarts MicroPython."
+  },
+  "Neuer Ordner …": {
+    "de": "Neuer Ordner …",
+    "en": "New folder …"
+  },
+  "USB-Gerät auswählen und verbinden": {
+    "de": "USB-Gerät auswählen und verbinden",
+    "en": "Select a USB device and connect"
+  },
+  "Speicher: noch nicht verbunden": {
+    "de": "Speicher: noch nicht verbunden",
+    "en": "Storage: not connected yet"
+  },
+  "Senden": {
+    "de": "Senden",
+    "en": "Send"
+  },
+  "Neu starten": {
+    "de": "Neu starten",
+    "en": "Restart"
+  },
+  "Verbindung und Übertragungen erscheinen hier.": {
+    "de": "Verbindung und Übertragungen erscheinen hier.",
+    "en": "Connection and transfer messages appear here."
+  },
+  "Übertragung läuft – bitte kurz warten": {
+    "de": "Übertragung läuft – bitte kurz warten",
+    "en": "Transfer in progress – please wait"
+  },
+  "Der M5 ist noch beschäftigt. Sobald die aktuelle Aktion fertig ist, kannst du das Fenster schliessen oder die App beenden.": {
+    "de": "Der M5 ist noch beschäftigt. Sobald die aktuelle Aktion fertig ist, kannst du das Fenster schliessen oder die App beenden.",
+    "en": "The M5 is still busy. When the current operation finishes, you can close the window or quit the app."
+  },
+  "Über M5 File Manager": {
+    "de": "Über M5 File Manager",
+    "en": "About M5 File Manager"
+  },
+  "Kopieren": {
+    "de": "Kopieren",
+    "en": "Copy"
+  },
+  "Einfügen": {
+    "de": "Einfügen",
+    "en": "Paste"
+  },
+  "Alles auswählen": {
+    "de": "Alles auswählen",
+    "en": "Select All"
+  },
+  "Entwicklung": {
+    "de": "Entwicklung",
+    "en": "Development"
+  },
+  "Dateien zwischen Mac und M5 bewegen.\nLokal per USB · MicroPython / UIFlow2": {
+    "de": "Dateien zwischen Mac und M5 bewegen.\nLokal per USB · MicroPython / UIFlow2",
+    "en": "Move files between Mac and M5.\nLocal USB · MicroPython / UIFlow2"
+  },
+  "USB verbinden · Flash & SD öffnen · Dateien rüberziehen": {
+    "de": "USB verbinden · Flash & SD öffnen · Dateien rüberziehen",
+    "en": "Connect USB · Browse flash & SD · Drag files"
+  },
+  "USB-Seriellgeräte. Der M5 muss MicroPython oder UIFlow2 ausführen.": {
+    "de": "USB-Seriellgeräte. Der M5 muss MicroPython oder UIFlow2 ausführen.",
+    "en": "USB serial devices. The M5 must run MicroPython or UIFlow2."
+  },
+  "Bindet die eingesteckte SD-Karte für diese Sitzung ein. Ändert den Autostart nicht.": {
+    "de": "Bindet die eingesteckte SD-Karte für diese Sitzung ein. Ändert den Autostart nicht.",
+    "en": "Mounts the inserted SD card for this session. Does not change autostart."
+  },
+  "Trennlinie nach oben oder unten ziehen, um das Terminal zu vergrössern oder zu verkleinern.": {
+    "de": "Trennlinie nach oben oder unten ziehen, um das Terminal zu vergrössern oder zu verkleinern.",
+    "en": "Drag the divider up or down to resize the terminal."
+  },
+  "Dateibaum und Terminal – verschiebbare Trennlinie": {
+    "de": "Dateibaum und Terminal – verschiebbare Trennlinie",
+    "en": "File tree and terminal – adjustable divider"
+  },
+  "Grösse": {
+    "de": "Grösse",
+    "en": "Size"
+  },
+  "Doppelklick öffnet Dateien. Ziehen in einen Ordner verschiebt innerhalb von Flash oder SD. Ziehen zum Finder oder vom Finder kopiert. Weitere Befehle unter «Aktionen» und per Rechtsklick.": {
+    "de": "Doppelklick öffnet Dateien. Ziehen in einen Ordner verschiebt innerhalb von Flash oder SD. Ziehen zum Finder oder vom Finder kopiert. Weitere Befehle unter «Aktionen» und per Rechtsklick.",
+    "en": "Double-click to open files. Drag to a folder to move within flash or SD. Drag to or from Finder to copy. More commands are available under “Actions” and in the context menu."
+  },
+  "M5 File Manager bereit. USB-Gerät auswählen und Connect drücken.\n": {
+    "de": "M5 File Manager bereit. USB-Gerät auswählen und Connect drücken.\n",
+    "en": "M5 File Manager ready. Select a USB device and press Connect.\n"
+  },
+  "Die USB-Verbindung wurde beendet.": {
+    "de": "Die USB-Verbindung wurde beendet.",
+    "en": "The USB connection was closed."
+  },
+  "Dateizugriff hält dein M5-Programm an. «Neu starten» startet MicroPython neu.": {
+    "de": "Dateizugriff hält dein M5-Programm an. «Neu starten» startet MicroPython neu.",
+    "en": "File access stops your M5 program. “Restart” restarts MicroPython."
+  },
+  "Verbunden · Neustart angefordert": {
+    "de": "Verbunden · Neustart angefordert",
+    "en": "Connected · Restart requested"
+  },
+  "Gerät fertig starten lassen, dann «Aktualisieren». Dateizugriff unterbricht das Startprogramm.": {
+    "de": "Gerät fertig starten lassen, dann «Aktualisieren». Dateizugriff unterbricht das Startprogramm.",
+    "en": "Let the device finish starting, then use “Refresh”. File access interrupts the startup program."
+  },
+  "Start angefordert: {0}. Die Ausgabe erscheint im Terminal. Dateizugriff hält das Programm wieder an.": {
+    "de": "Start angefordert: {0}. Die Ausgabe erscheint im Terminal. Dateizugriff hält das Programm wieder an.",
+    "en": "Start requested: {0}. Output appears in the terminal. File access stops the program again."
+  },
+  "Auf dem M5 wurde ein Programmstart oder Neustart angefordert.": {
+    "de": "Auf dem M5 wurde ein Programmstart oder Neustart angefordert.",
+    "en": "A program start or restart was requested on the M5."
+  },
+  "Dateizugriff unterbricht das laufende Programm.": {
+    "de": "Dateizugriff unterbricht das laufende Programm.",
+    "en": "File access interrupts the running program."
+  },
+  "Aktionen": {
+    "de": "Aktionen",
+    "en": "Actions"
+  },
+  "Öffnen / bearbeiten …": {
+    "de": "Öffnen / bearbeiten …",
+    "en": "Open / edit …"
+  },
+  "Python-Datei starten …": {
+    "de": "Python-Datei starten …",
+    "en": "Run Python file …"
+  },
+  "UIFlow-Startmenü aktivieren …": {
+    "de": "UIFlow-Startmenü aktivieren …",
+    "en": "Enable UIFlow startup menu …"
+  },
+  "Umbenennen …": {
+    "de": "Umbenennen …",
+    "en": "Rename …"
+  },
+  "Löschen …": {
+    "de": "Löschen …",
+    "en": "Delete …"
+  },
+  "Sicherungen im Finder zeigen": {
+    "de": "Sicherungen im Finder zeigen",
+    "en": "Show safety backups in Finder"
+  },
+  "Ordner für Lösch-Sicherungen wählen …": {
+    "de": "Ordner für Lösch-Sicherungen wählen …",
+    "en": "Choose deletion backup folder …"
+  },
+  "Lösch-Sicherungen im Finder zeigen": {
+    "de": "Lösch-Sicherungen im Finder zeigen",
+    "en": "Show deletion backups in Finder"
+  },
+  "Speicher: nach «Aktualisieren» verfügbar": {
+    "de": "Speicher: nach «Aktualisieren» verfügbar",
+    "en": "Storage: available after “Refresh”"
+  },
+  "{0}: Kapazität nicht verfügbar": {
+    "de": "{0}: Kapazität nicht verfügbar",
+    "en": "{0}: capacity unavailable"
+  },
+  "SD nicht verfügbar · «SD einbinden»": {
+    "de": "SD nicht verfügbar · «SD einbinden»",
+    "en": "SD unavailable · “Mount SD”"
+  },
+  "Der M5 ist nicht verbunden oder noch beschäftigt. Dein Text bleibt im Editor.": {
+    "de": "Der M5 ist nicht verbunden oder noch beschäftigt. Dein Text bleibt im Editor.",
+    "en": "The M5 is disconnected or busy. Your text stays in the editor."
+  },
+  "M5 nicht verfügbar oder beschäftigt.": {
+    "de": "M5 nicht verfügbar oder beschäftigt.",
+    "en": "M5 unavailable or busy."
+  },
+  "Ordner für M5-Dateisicherungen wählen": {
+    "de": "Ordner für M5-Dateisicherungen wählen",
+    "en": "Choose a folder for M5 file backups"
+  },
+  "Diesen Ordner merken": {
+    "de": "Diesen Ordner merken",
+    "en": "Remember this folder"
+  },
+  "M5-Dateien auf dem Mac sichern": {
+    "de": "M5-Dateien auf dem Mac sichern",
+    "en": "Back up M5 files on this Mac"
+  },
+  "Flash-Dateien werden in einen neuen Sicherungsordner kopiert. Ziel:\n{0}\n\nDies ist eine Dateisicherung; die Firmware ist nicht enthalten.": {
+    "de": "Flash-Dateien werden in einen neuen Sicherungsordner kopiert. Ziel:\n{0}\n\nDies ist eine Dateisicherung; die Firmware ist nicht enthalten.",
+    "en": "Flash files will be copied into a new backup folder. Destination:\n{0}\n\nThis is a file backup; it does not include firmware."
+  },
+  "Abbrechen": {
+    "de": "Abbrechen",
+    "en": "Cancel"
+  },
+  "Anderer Ordner …": {
+    "de": "Anderer Ordner …",
+    "en": "Another folder …"
+  },
+  "Backup fertig: {0} Dateien unter {1}\n": {
+    "de": "Backup fertig: {0} Dateien unter {1}\n",
+    "en": "Backup complete: {0} files in {1}\n"
+  },
+  "Der Name wird auf dem M5 geändert. Vorhandene Ziele werden nicht überschrieben.": {
+    "de": "Der Name wird auf dem M5 geändert. Vorhandene Ziele werden nicht überschrieben.",
+    "en": "The name will be changed on the M5. Existing destinations are not overwritten."
+  },
+  "Umbenennen": {
+    "de": "Umbenennen",
+    "en": "Rename"
+  },
+  "Die Datei oder ihr Ordner wurde umbenannt.": {
+    "de": "Die Datei oder ihr Ordner wurde umbenannt.",
+    "en": "The file or its folder was renamed."
+  },
+  "«{0}» vom M5 löschen?": {
+    "de": "«{0}» vom M5 löschen?",
+    "en": "Delete “{0}” from the M5?"
+  },
+  "Dieser Ordner und alle enthaltenen Dateien werden gelöscht.": {
+    "de": "Dieser Ordner und alle enthaltenen Dateien werden gelöscht.",
+    "en": "This folder and all files inside it will be deleted."
+  },
+  "Die Datei wird vom M5 gelöscht.": {
+    "de": "Die Datei wird vom M5 gelöscht.",
+    "en": "The file will be deleted from the M5."
+  },
+  " Mit aktivierter Sicherung wird zuerst eine Kopie auf dem Mac erstellt; schlägt sie fehl, wird nichts gelöscht. Ohne Sicherung kann die Löschung nicht rückgängig gemacht werden.": {
+    "de": " Mit aktivierter Sicherung wird zuerst eine Kopie auf dem Mac erstellt; schlägt sie fehl, wird nichts gelöscht. Ohne Sicherung kann die Löschung nicht rückgängig gemacht werden.",
+    "en": " With backup enabled, a copy is created on the Mac first; if that fails, nothing is deleted. Deletion without a backup cannot be undone."
+  },
+  "Löschen": {
+    "de": "Löschen",
+    "en": "Delete"
+  },
+  "Für diese Datei oder ihren Ordner wurde ein Löschauftrag ausgeführt.": {
+    "de": "Für diese Datei oder ihren Ordner wurde ein Löschauftrag ausgeführt.",
+    "en": "A deletion request was executed for this file or its folder."
+  },
+  "Sicherung vor dem Löschen: {0}\n": {
+    "de": "Sicherung vor dem Löschen: {0}\n",
+    "en": "Backup before deletion: {0}\n"
+  },
+  "Ordner für Lösch-Sicherungen wählen": {
+    "de": "Ordner für Lösch-Sicherungen wählen",
+    "en": "Choose deletion backup folder"
+  },
+  "Ordner für Lösch-Sicherungen auf diesem Mac: {0}\n": {
+    "de": "Ordner für Lösch-Sicherungen auf diesem Mac: {0}\n",
+    "en": "Deletion backup folder on this Mac: {0}\n"
+  },
+  "Der Ordner für Lösch-Sicherungen ist nicht erreichbar:\n{0}\n\nUnter «Aktionen → Ordner für Lösch-Sicherungen wählen …» kannst du einen verfügbaren Ordner auswählen.": {
+    "de": "Der Ordner für Lösch-Sicherungen ist nicht erreichbar:\n{0}\n\nUnter «Aktionen → Ordner für Lösch-Sicherungen wählen …» kannst du einen verfügbaren Ordner auswählen.",
+    "en": "The deletion backup folder is unavailable:\n{0}\n\nChoose an available folder under “Actions → Choose deletion backup folder …”."
+  },
+  "Das bisherige Python-Programm wird angehalten. Es wird die gespeicherte Datei auf dem M5 gestartet; ungespeicherter Editortext wird nicht übertragen. Der Dateibaum wird danach geleert, damit kein automatischer Zugriff das Programm unterbricht.": {
+    "de": "Das bisherige Python-Programm wird angehalten. Es wird die gespeicherte Datei auf dem M5 gestartet; ungespeicherter Editortext wird nicht übertragen. Der Dateibaum wird danach geleert, damit kein automatischer Zugriff das Programm unterbricht.",
+    "en": "The current Python program will stop. The saved file on the M5 will run; unsaved editor text is not transferred. The file tree will then be cleared so automatic access does not interrupt the program."
+  },
+  "Die bisherige main.py im Flash wird nach lokaler Sicherung durch einen Startaufruf für «{0}» ersetzt. Ist dies bereits main.py, bleibt ihr Inhalt erhalten. Bei UIFlow wird zudem «main.py direkt starten» aktiviert: Das Startmenü wird übersprungen. Wirksam erst beim nächsten Neustart; boot.py bleibt unverändert. Das Programm muss benötigte Hardware und Netzwerkverbindungen gegebenenfalls selbst initialisieren.": {
+    "de": "Die bisherige main.py im Flash wird nach lokaler Sicherung durch einen Startaufruf für «{0}» ersetzt. Ist dies bereits main.py, bleibt ihr Inhalt erhalten. Bei UIFlow wird zudem «main.py direkt starten» aktiviert: Das Startmenü wird übersprungen. Wirksam erst beim nächsten Neustart; boot.py bleibt unverändert. Das Programm muss benötigte Hardware und Netzwerkverbindungen gegebenenfalls selbst initialisieren.",
+    "en": "After a local backup, the existing main.py in flash will be replaced with a launcher for “{0}”. If this is already main.py, its contents stay unchanged. With UIFlow, “Run main.py directly” is also enabled, bypassing the startup menu. Takes effect on the next restart; boot.py stays unchanged. The program may need to initialize its own hardware and network connections."
+  },
+  "\n\nDiese Datei liegt auf SD: Die Karte muss bereits beim Programmstart eingebunden sein. Eine nur eingesteckte Karte genügt dafür nicht.": {
+    "de": "\n\nDiese Datei liegt auf SD: Die Karte muss bereits beim Programmstart eingebunden sein. Eine nur eingesteckte Karte genügt dafür nicht.",
+    "en": "\n\nThis file is on SD: the card must already be mounted when the program starts. Inserting the card alone is not enough."
+  },
+  "Der Autostart wurde geändert.": {
+    "de": "Der Autostart wurde geändert.",
+    "en": "Autostart was changed."
+  },
+  "Autostart eingerichtet; kein Neustart ausgelöst.\n": {
+    "de": "Autostart eingerichtet; kein Neustart ausgelöst.\n",
+    "en": "Autostart configured; no restart requested.\n"
+  },
+  "Es gibt noch keine lokalen Sicherheitssicherungen. Sie entstehen beim Speichern, beim Löschen mit Sicherung und beim Einrichten eines Autostarts.": {
+    "de": "Es gibt noch keine lokalen Sicherheitssicherungen. Sie entstehen beim Speichern, beim Löschen mit Sicherung und beim Einrichten eines Autostarts.",
+    "en": "There are no local safety backups yet. They are created when saving, deleting with backup, or configuring autostart."
+  },
+  "UIFlow-Startmenü aktivieren?": {
+    "de": "UIFlow-Startmenü aktivieren?",
+    "en": "Enable the UIFlow startup menu?"
+  },
+  "Beim nächsten Neustart wird wieder das UIFlow-Startmenü angezeigt. main.py bleibt erhalten. Es erfolgt kein sofortiger Neustart.": {
+    "de": "Beim nächsten Neustart wird wieder das UIFlow-Startmenü angezeigt. main.py bleibt erhalten. Es erfolgt kein sofortiger Neustart.",
+    "en": "The UIFlow startup menu will appear on the next restart. main.py is preserved. No immediate restart is requested."
+  },
+  "Startmenü aktivieren": {
+    "de": "Startmenü aktivieren",
+    "en": "Enable startup menu"
+  },
+  "UIFlow-Startmenü für den nächsten Neustart aktiviert.\n": {
+    "de": "UIFlow-Startmenü für den nächsten Neustart aktiviert.\n",
+    "en": "UIFlow startup menu enabled for the next restart.\n"
+  },
+  "Kein USB-Seriellgerät gefunden": {
+    "de": "Kein USB-Seriellgerät gefunden",
+    "en": "No USB serial device found"
+  },
+  "{0} ausgewählt · In einen Ordner ziehen zum Verschieben · In den Finder ziehen zum Kopieren": {
+    "de": "{0} ausgewählt · In einen Ordner ziehen zum Verschieben · In den Finder ziehen zum Kopieren",
+    "en": "{0} selected · Drag to a folder to move · Drag to Finder to copy"
+  },
+  "Ziel: {0}   ·   Dateien vom Finder hierher ziehen · M5-Dateien in den Finder ziehen": {
+    "de": "Ziel: {0}   ·   Dateien vom Finder hierher ziehen · M5-Dateien in den Finder ziehen",
+    "en": "Destination: {0}   ·   Drag files here from Finder · Drag M5 files to Finder"
+  },
+  "Ordner momentan nicht lesbar · «Aktualisieren» prüft Speicher und Dateien erneut": {
+    "de": "Ordner momentan nicht lesbar · «Aktualisieren» prüft Speicher und Dateien erneut",
+    "en": "Folder currently unreadable · “Refresh” checks storage and files again"
+  },
+  "Vorschau mit Beispieldateien · keine USB-Verbindung": {
+    "de": "Vorschau mit Beispieldateien · keine USB-Verbindung",
+    "en": "Sample preview · No USB connection"
+  },
+  "Ordner wählen zum Hochladen · Dateien und Ordner per Drag & Drop kopieren": {
+    "de": "Ordner wählen zum Hochladen · Dateien und Ordner per Drag & Drop kopieren",
+    "en": "Select a folder to upload · Drag and drop to copy files and folders"
+  },
+  "Mac-Ordner für Live-Sync nach {0} wählen": {
+    "de": "Mac-Ordner für Live-Sync nach {0} wählen",
+    "en": "Choose a Mac folder to sync to {0}"
+  },
+  "Mac: {0}\nM5: {1}\n\nAlle sichtbaren Dateien inklusive Unterordner werden zuerst übertragen. Vorhandene M5-Dateien werden lokal gesichert. Danach werden Änderungen nach zwei stabilen Sekunden übertragen und das Board neu gestartet. Dateizugriff stoppt Python. Lokale Löschungen löschen nichts auf dem M5. Konflikte stoppen Live-Sync. Grenzen: 128 Dateien, je 1 MiB, insgesamt 8 MiB; keine Symlinks.": {
+    "de": "Mac: {0}\nM5: {1}\n\nAlle sichtbaren Dateien inklusive Unterordner werden zuerst übertragen. Vorhandene M5-Dateien werden lokal gesichert. Danach werden Änderungen nach zwei stabilen Sekunden übertragen und das Board neu gestartet. Dateizugriff stoppt Python. Lokale Löschungen löschen nichts auf dem M5. Konflikte stoppen Live-Sync. Grenzen: 128 Dateien, je 1 MiB, insgesamt 8 MiB; keine Symlinks.",
+    "en": "Mac: {0}\nM5: {1}\n\nAll visible files, including subfolders, are transferred first. Existing M5 files are backed up locally. Later changes are transferred after two stable seconds and the board is restarted. File access stops Python. Local deletions do not delete M5 files. Conflicts stop live sync. Limits: 128 files, 1 MiB each, 8 MiB total; no symlinks."
+  },
+  "M5 ist inzwischen beschäftigt oder getrennt.": {
+    "de": "M5 ist inzwischen beschäftigt oder getrennt.",
+    "en": "The M5 is now busy or disconnected."
+  },
+  "Live-Sync: {0} Dateien übertragen …": {
+    "de": "Live-Sync: {0} Dateien übertragen …",
+    "en": "Live sync: transferring {0} files …"
+  },
+  "Live-Sync aktiv: {0} → {1} · Neustart angefordert": {
+    "de": "Live-Sync aktiv: {0} → {1} · Neustart angefordert",
+    "en": "Live sync active: {0} → {1} · Restart requested"
+  },
+  "Live-Sync aktiv: {0} → {1}": {
+    "de": "Live-Sync aktiv: {0} → {1}",
+    "en": "Live sync active: {0} → {1}"
+  },
+  "Dateien nach {0} kopieren": {
+    "de": "Dateien nach {0} kopieren",
+    "en": "Copy files to {0}"
+  },
+  "Neuer Ordner": {
+    "de": "Neuer Ordner",
+    "en": "New folder"
+  },
+  "Ordnername": {
+    "de": "Ordnername",
+    "en": "Folder name"
+  },
+  "Bitte einen einfachen Ordnernamen ohne Schrägstriche eingeben.": {
+    "de": "Bitte einen einfachen Ordnernamen ohne Schrägstriche eingeben.",
+    "en": "Enter a simple folder name without slashes."
+  },
+  "Vorhandene Dateien ersetzen?": {
+    "de": "Vorhandene Dateien ersetzen?",
+    "en": "Replace existing files?"
+  },
+  "\n\nGleichnamige Dateien in dieser Übertragung werden ersetzt. Beim Herunterladen ersetzt ein gleichnamiger Ordner den gesamten bisherigen Mac-Ordner – auch zusätzliche Dateien darin.": {
+    "de": "\n\nGleichnamige Dateien in dieser Übertragung werden ersetzt. Beim Herunterladen ersetzt ein gleichnamiger Ordner den gesamten bisherigen Mac-Ordner – auch zusätzliche Dateien darin.",
+    "en": "\n\nFiles with matching names in this transfer will be replaced. When downloading, a matching folder replaces the entire existing Mac folder, including additional files inside it."
+  },
+  "Ersetzen": {
+    "de": "Ersetzen",
+    "en": "Replace"
+  },
+  "Das hat noch nicht geklappt": {
+    "de": "Das hat noch nicht geklappt",
+    "en": "That did not work yet"
+  },
+  "Terminalbefehl gesendet. «Aktualisieren» liest die Dateien neu und hält laufenden Python-Code an.": {
+    "de": "Terminalbefehl gesendet. «Aktualisieren» liest die Dateien neu und hält laufenden Python-Code an.",
+    "en": "Terminal command sent. “Refresh” reads files again and stops running Python code."
+  },
+  "Verschieben nur innerhalb von Flash oder SD · Zwischen beiden Speichern bitte über den Mac kopieren": {
+    "de": "Verschieben nur innerhalb von Flash oder SD · Zwischen beiden Speichern bitte über den Mac kopieren",
+    "en": "Move only within flash or SD · Copy via the Mac to transfer between them"
+  },
+  "Für diese Datei oder ihren Ordner wurde ein Verschiebeauftrag ausgeführt. Bitte am aktuellen Ort neu öffnen.": {
+    "de": "Für diese Datei oder ihren Ordner wurde ein Verschiebeauftrag ausgeführt. Bitte am aktuellen Ort neu öffnen.",
+    "en": "A move request was executed for this file or its folder. Reopen it at its current location."
+  },
+  "Für diesen Dateipfad wurde ein Verschiebeauftrag ausgeführt. Bitte die aktuelle Datei neu öffnen.": {
+    "de": "Für diesen Dateipfad wurde ein Verschiebeauftrag ausgeführt. Bitte die aktuelle Datei neu öffnen.",
+    "en": "A move request was executed for this path. Reopen the current file."
+  },
+  "Die USB-Verbindung wurde inzwischen gewechselt. Bitte die Datei erneut vom verbundenen M5 in den Finder ziehen.": {
+    "de": "Die USB-Verbindung wurde inzwischen gewechselt. Bitte die Datei erneut vom verbundenen M5 in den Finder ziehen.",
+    "en": "The USB session has changed. Drag the file from the connected M5 to Finder again."
+  },
+  "Der M5 ist nicht verbunden oder noch beschäftigt. Bitte nach der laufenden Übertragung nochmals ziehen.": {
+    "de": "Der M5 ist nicht verbunden oder noch beschäftigt. Bitte nach der laufenden Übertragung nochmals ziehen.",
+    "en": "The M5 is disconnected or busy. Try dragging again after the current transfer finishes."
+  },
+  "Diese Datei ist im aktuellen Dateibaum nicht mehr verfügbar. Bitte aktualisieren und erneut in den Finder ziehen.": {
+    "de": "Diese Datei ist im aktuellen Dateibaum nicht mehr verfügbar. Bitte aktualisieren und erneut in den Finder ziehen.",
+    "en": "This file is no longer available in the current file tree. Refresh and drag to Finder again."
+  },
+  "Vorschau · M5Stack per USB": {
+    "de": "Vorschau · M5Stack per USB",
+    "en": "Preview · M5Stack over USB"
+  },
+  "Vorschau · kein Gerät verbunden": {
+    "de": "Vorschau · kein Gerät verbunden",
+    "en": "Preview · No device connected"
+  },
+  "Vorschau mit Beispieldateien · Doppelklick auf eine Textdatei öffnet den Editor.\n": {
+    "de": "Vorschau mit Beispieldateien · Doppelklick auf eine Textdatei öffnet den Editor.\n",
+    "en": "Sample preview · Double-click a text file to open the editor.\n"
+  },
+  "Ungültiger lokaler Dateipfad.": {
+    "de": "Ungültiger lokaler Dateipfad.",
+    "en": "Invalid local file path."
+  },
+  "Datei kann nicht umbenannt werden": {
+    "de": "Datei kann nicht umbenannt werden",
+    "en": "Cannot rename file"
+  },
+  "Quelldatei nicht prüfbar": {
+    "de": "Quelldatei nicht prüfbar",
+    "en": "Cannot verify source file"
+  },
+  "Nur reguläre Dateien können auf diesem Volume sicher übertragen werden.": {
+    "de": "Nur reguläre Dateien können auf diesem Volume sicher übertragen werden.",
+    "en": "Only regular files can be transferred safely on this volume."
+  },
+  "Neue Zieldatei nicht prüfbar; Quelle bleibt erhalten": {
+    "de": "Neue Zieldatei nicht prüfbar; Quelle bleibt erhalten",
+    "en": "Cannot verify new destination file; source preserved"
+  },
+  "Sicherungskopie fehlgeschlagen; Quelle bleibt erhalten": {
+    "de": "Sicherungskopie fehlgeschlagen; Quelle bleibt erhalten",
+    "en": "Backup copy failed; source preserved"
+  },
+  "Sicherungskopie konnte nicht synchronisiert werden": {
+    "de": "Sicherungskopie konnte nicht synchronisiert werden",
+    "en": "Could not sync backup copy"
+  },
+  "Sicherungskopie nicht prüfbar": {
+    "de": "Sicherungskopie nicht prüfbar",
+    "en": "Cannot verify backup copy"
+  },
+  "Sicherungskopie ist unvollständig; Quelle bleibt erhalten.": {
+    "de": "Sicherungskopie ist unvollständig; Quelle bleibt erhalten.",
+    "en": "Backup copy is incomplete; source preserved."
+  },
+  "Sicherungskopie stimmt nicht mit der Quelle überein; Quelle bleibt erhalten.": {
+    "de": "Sicherungskopie stimmt nicht mit der Quelle überein; Quelle bleibt erhalten.",
+    "en": "Backup copy does not match the source; source preserved."
+  },
+  "Sicherungskopie enthält unerwartete Daten; Quelle bleibt erhalten.": {
+    "de": "Sicherungskopie enthält unerwartete Daten; Quelle bleibt erhalten.",
+    "en": "Backup copy contains unexpected data; source preserved."
+  },
+  "Dateien vor Abschluss nicht prüfbar": {
+    "de": "Dateien vor Abschluss nicht prüfbar",
+    "en": "Cannot verify files before completion"
+  },
+  "Dateien wurden während der Sicherung verändert; Quelle bleibt erhalten.": {
+    "de": "Dateien wurden während der Sicherung verändert; Quelle bleibt erhalten.",
+    "en": "Files changed during backup; source preserved."
+  },
+  "Quelle konnte nach der geprüften Kopie nicht entfernt werden": {
+    "de": "Quelle konnte nach der geprüften Kopie nicht entfernt werden",
+    "en": "Could not remove source after verified copy"
+  },
+  "Ungültiger USB-Port.": {
+    "de": "Ungültiger USB-Port.",
+    "en": "Invalid USB port."
+  },
+  "USB-Port kann nicht geöffnet werden": {
+    "de": "USB-Port kann nicht geöffnet werden",
+    "en": "Cannot open USB port"
+  },
+  "USB-Port lässt sich nicht konfigurieren": {
+    "de": "USB-Port lässt sich nicht konfigurieren",
+    "en": "Cannot configure USB port"
+  },
+  "Nur reguläre Dateien können hochgeladen werden: {0}": {
+    "de": "Nur reguläre Dateien können hochgeladen werden: {0}",
+    "en": "Only regular files can be uploaded: {0}"
+  },
+  "Ziel ist ein Ordner: {0}": {
+    "de": "Ziel ist ein Ordner: {0}",
+    "en": "Destination is a folder: {0}"
+  },
+  "Temporärer Dateiname ist bereits belegt. Bitte erneut versuchen.": {
+    "de": "Temporärer Dateiname ist bereits belegt. Bitte erneut versuchen.",
+    "en": "Temporary file name is already in use. Try again."
+  },
+  "Die lokale Datei hat sich während der Übertragung verändert.": {
+    "de": "Die lokale Datei hat sich während der Übertragung verändert.",
+    "en": "The local file changed during the transfer."
+  },
+  "Schreibprüfung fehlgeschlagen. Die Zieldatei wurde nicht ersetzt.": {
+    "de": "Schreibprüfung fehlgeschlagen. Die Zieldatei wurde nicht ersetzt.",
+    "en": "Write verification failed. The destination file was not replaced."
+  },
+  "Dateigrösse stimmt nicht überein. Die Zieldatei wurde nicht ersetzt.": {
+    "de": "Dateigrösse stimmt nicht überein. Die Zieldatei wurde nicht ersetzt.",
+    "en": "File size mismatch. The destination file was not replaced."
+  },
+  "Übertragen; ursprüngliche Datei zusätzlich aufbewahrt unter {0}\r\n": {
+    "de": "Übertragen; ursprüngliche Datei zusätzlich aufbewahrt unter {0}\r\n",
+    "en": "Transferred; original also retained at {0}\r\n"
+  },
+  "Temporäre Datei eventuell noch vorhanden: {0}\r\n": {
+    "de": "Temporäre Datei eventuell noch vorhanden: {0}\r\n",
+    "en": "Temporary file may remain at {0}\r\n"
+  },
+  "Übertragung unterbrochen. Bitte Ziel und mögliche Hilfsdateien prüfen:\r\n{0}\r\n{1}\r\n{2}\r\n": {
+    "de": "Übertragung unterbrochen. Bitte Ziel und mögliche Hilfsdateien prüfen:\r\n{0}\r\n{1}\r\n{2}\r\n",
+    "en": "Transfer interrupted. Check the destination and possible helper files:\r\n{0}\r\n{1}\r\n{2}\r\n"
+  },
+  "Lokale temporäre Datei kann nicht erstellt werden": {
+    "de": "Lokale temporäre Datei kann nicht erstellt werden",
+    "en": "Cannot create local temporary file"
+  },
+  "Keine lesbare Datei: {0}": {
+    "de": "Keine lesbare Datei: {0}",
+    "en": "Not a readable file: {0}"
+  },
+  "Leseprüfung fehlgeschlagen. Die lokale Zieldatei wurde nicht ersetzt.": {
+    "de": "Leseprüfung fehlgeschlagen. Die lokale Zieldatei wurde nicht ersetzt.",
+    "en": "Read verification failed. The local destination file was not replaced."
+  },
+  "Die Datei auf dem M5 hat sich während der Übertragung verändert.": {
+    "de": "Die Datei auf dem M5 hat sich während der Übertragung verändert.",
+    "en": "The file on the M5 changed during the transfer."
+  },
+  "Lokale Dateigrösse stimmt nicht mit der Quelle überein.": {
+    "de": "Lokale Dateigrösse stimmt nicht mit der Quelle überein.",
+    "en": "Local file size does not match the source."
+  },
+  "Die maximale Dateigrösse darf nicht negativ sein.": {
+    "de": "Die maximale Dateigrösse darf nicht negativ sein.",
+    "en": "Maximum file size must not be negative."
+  },
+  "Keine reguläre Datei: {0}": {
+    "de": "Keine reguläre Datei: {0}",
+    "en": "Not a regular file: {0}"
+  },
+  "Die Datei ist für diese Ansicht zu gross ({0} Bytes; maximal {1} Bytes).": {
+    "de": "Die Datei ist für diese Ansicht zu gross ({0} Bytes; maximal {1} Bytes).",
+    "en": "The file is too large for this view ({0} bytes; maximum {1} bytes)."
+  },
+  "Die Datei hat sich beim Lesen verändert oder konnte nicht vollständig gelesen werden: {0}": {
+    "de": "Die Datei hat sich beim Lesen verändert oder konnte nicht vollständig gelesen werden: {0}",
+    "en": "The file changed while reading or could not be read completely: {0}"
+  },
+  "Die Datei hat sich während des Lesens verändert: {0}": {
+    "de": "Die Datei hat sich während des Lesens verändert: {0}",
+    "en": "The file changed while reading: {0}"
+  },
+  "Bitte 1 bis 128 Einträge zum Verschieben auswählen.": {
+    "de": "Bitte 1 bis 128 Einträge zum Verschieben auswählen.",
+    "en": "Select between 1 and 128 entries to move."
+  },
+  "Die Auswahl enthält einen Pfad mehrfach.": {
+    "de": "Die Auswahl enthält einen Pfad mehrfach.",
+    "en": "The selection contains the same path more than once."
+  },
+  "Mehrere ausgewählte Einträge haben denselben Zielnamen. Bitte einzeln verschieben.": {
+    "de": "Mehrere ausgewählte Einträge haben denselben Zielnamen. Bitte einzeln verschieben.",
+    "en": "Several selected entries have the same destination name. Move them separately."
+  },
+  "Ein Ordner kann nicht in sich selbst oder einen eigenen Unterordner verschoben werden: {0}": {
+    "de": "Ein Ordner kann nicht in sich selbst oder einen eigenen Unterordner verschoben werden: {0}",
+    "en": "A folder cannot be moved into itself or one of its own subfolders: {0}"
+  },
+  "Der Eintrag liegt bereits im Zielordner: {0}": {
+    "de": "Der Eintrag liegt bereits im Zielordner: {0}",
+    "en": "The entry is already in the destination folder: {0}"
+  },
+  "Die Auswahl enthält einen Ordner zusammen mit seinem Inhalt. Bitte nur den übergeordneten Ordner wählen.": {
+    "de": "Die Auswahl enthält einen Ordner zusammen mit seinem Inhalt. Bitte nur den übergeordneten Ordner wählen.",
+    "en": "The selection includes a folder and its contents. Select only the parent folder."
+  },
+  "Ungültige Geräteantwort.": {
+    "de": "Ungültige Geräteantwort.",
+    "en": "Invalid device response."
+  },
+  "Keine Verschiebung bestätigt.": {
+    "de": "Keine Verschiebung bestätigt.",
+    "en": "No move confirmed."
+  },
+  "Bestätigt verschoben:\n": {
+    "de": "Bestätigt verschoben:\n",
+    "en": "Confirmed moved:\n"
+  },
+  "Letzter Schritt unbestätigt": {
+    "de": "Letzter Schritt unbestätigt",
+    "en": "Last step unconfirmed"
+  },
+  "Verschieben abgebrochen.\n{0}\n{1}: {2} → {3}\n{4}\nBitte den Dateibaum aktualisieren. Es wurde kein automatisches Zurückverschieben versucht.": {
+    "de": "Verschieben abgebrochen.\n{0}\n{1}: {2} → {3}\n{4}\nBitte den Dateibaum aktualisieren. Es wurde kein automatisches Zurückverschieben versucht.",
+    "en": "Move interrupted.\n{0}\n{1}: {2} → {3}\n{4}\nRefresh the file tree. No automatic move back was attempted."
+  },
+  "Umbenennen ist nur im selben Ordner möglich.": {
+    "de": "Umbenennen ist nur im selben Ordner möglich.",
+    "en": "Renaming is only possible within the same folder."
+  },
+  "Dieser Dateityp kann nicht umbenannt werden: {0}": {
+    "de": "Dieser Dateityp kann nicht umbenannt werden: {0}",
+    "en": "This file type cannot be renamed: {0}"
+  },
+  "Der Ordner ist nicht leer: {0}. Bitte das Löschen samt Inhalt bestätigen.": {
+    "de": "Der Ordner ist nicht leer: {0}. Bitte das Löschen samt Inhalt bestätigen.",
+    "en": "The folder is not empty: {0}. Confirm deletion including its contents."
+  },
+  "Der Ordner ist zum sicheren Löschen zu gross oder zu tief (maximal 4096 Einträge, 32 Ebenen). Es wurde nichts gelöscht.": {
+    "de": "Der Ordner ist zum sicheren Löschen zu gross oder zu tief (maximal 4096 Einträge, 32 Ebenen). Es wurde nichts gelöscht.",
+    "en": "The folder is too large or too deep for safe deletion (maximum 4096 entries, 32 levels). Nothing was deleted."
+  },
+  "Der Dateityp hat sich während des Löschens verändert: {0}. Bereits gelöschte Einträge bleiben gelöscht.": {
+    "de": "Der Dateityp hat sich während des Löschens verändert: {0}. Bereits gelöschte Einträge bleiben gelöscht.",
+    "en": "The file type changed during deletion: {0}. Entries already deleted remain deleted."
+  },
+  "Dieser Speicher-Stammordner ist geschützt: {0}": {
+    "de": "Dieser Speicher-Stammordner ist geschützt: {0}",
+    "en": "This storage root folder is protected: {0}"
+  },
+  "Dieser Dateityp kann nicht sicher gelöscht werden: {0}": {
+    "de": "Dieser Dateityp kann nicht sicher gelöscht werden: {0}",
+    "en": "This file type cannot be deleted safely: {0}"
+  },
+  "Nur Python-Dateien (.py) können gestartet werden.": {
+    "de": "Nur Python-Dateien (.py) können gestartet werden.",
+    "en": "Only Python files (.py) can be run."
+  },
+  "Keine ausführbare Python-Datei: {0}": {
+    "de": "Keine ausführbare Python-Datei: {0}",
+    "en": "Not an executable Python file: {0}"
+  },
+  "Die UIFlow-Startoption ist unbekannt. Autostart wurde nicht verändert.": {
+    "de": "Die UIFlow-Startoption ist unbekannt. Autostart wurde nicht verändert.",
+    "en": "The UIFlow startup option is unknown. Autostart was not changed."
+  },
+  "Ungültige UIFlow-Startoption.": {
+    "de": "Ungültige UIFlow-Startoption.",
+    "en": "Invalid UIFlow startup option."
+  },
+  "Diese Firmware unterstützt keine UIFlow-Startoption.": {
+    "de": "Diese Firmware unterstützt keine UIFlow-Startoption.",
+    "en": "This firmware does not support a UIFlow startup option."
+  },
+  "Die UIFlow-Startoption konnte nach dem Speichern nicht bestätigt werden.": {
+    "de": "Die UIFlow-Startoption konnte nach dem Speichern nicht bestätigt werden.",
+    "en": "The UIFlow startup option could not be confirmed after saving."
+  },
+  "Dateiübertragung läuft; Terminal bitte kurz warten lassen.": {
+    "de": "Dateiübertragung läuft; Terminal bitte kurz warten lassen.",
+    "en": "File transfer in progress; wait before using the terminal."
+  },
+  "Terminalbefehl enthält ein ungültiges Nullzeichen.": {
+    "de": "Terminalbefehl enthält ein ungültiges Nullzeichen.",
+    "en": "Terminal command contains an invalid null character."
+  },
+  "Ungültiger Pfad auf dem Gerät.": {
+    "de": "Ungültiger Pfad auf dem Gerät.",
+    "en": "Invalid device path."
+  },
+  "Ungültiger Dateipfad auf dem Gerät.": {
+    "de": "Ungültiger Dateipfad auf dem Gerät.",
+    "en": "Invalid device file path."
+  },
+  "Lokaler Dateistatus nicht lesbar": {
+    "de": "Lokaler Dateistatus nicht lesbar",
+    "en": "Cannot read local file status"
+  },
+  "Lokales Ziel ist keine Datei-URL.": {
+    "de": "Lokales Ziel ist keine Datei-URL.",
+    "en": "Local destination is not a file URL."
+  },
+  "Lokales Ziel ist keine reguläre Datei: {0}": {
+    "de": "Lokales Ziel ist keine reguläre Datei: {0}",
+    "en": "Local destination is not a regular file: {0}"
+  },
+  "Download abgeschlossen; Original zusätzlich aufbewahrt: {0}\r\n": {
+    "de": "Download abgeschlossen; Original zusätzlich aufbewahrt: {0}\r\n",
+    "en": "Download complete; original also retained at {0}\r\n"
+  },
+  "Das Gerät bestätigt den Dateibefehl nicht. Bitte neu verbinden.": {
+    "de": "Das Gerät bestätigt den Dateibefehl nicht. Bitte neu verbinden.",
+    "en": "The device did not acknowledge the file command. Reconnect."
+  },
+  "M5-Dateibefehl fehlgeschlagen: {0}": {
+    "de": "M5-Dateibefehl fehlgeschlagen: {0}",
+    "en": "M5 file command failed: {0}"
+  },
+  "Antwort des Geräts ist zu gross. Bitte Verbindung prüfen.": {
+    "de": "Antwort des Geräts ist zu gross. Bitte Verbindung prüfen.",
+    "en": "Device response is too large. Check the connection."
+  },
+  "Zeitüberschreitung beim M5. Bitte Verbindung und Zustand der letzten Dateiaktion prüfen.": {
+    "de": "Zeitüberschreitung beim M5. Bitte Verbindung und Zustand der letzten Dateiaktion prüfen.",
+    "en": "M5 timed out. Check the connection and the state of the last file operation."
+  },
+  "USB-Verbindung kann nicht gelesen werden": {
+    "de": "USB-Verbindung kann nicht gelesen werden",
+    "en": "Cannot read USB connection"
+  },
+  "USB-Verbindung wurde getrennt.": {
+    "de": "USB-Verbindung wurde getrennt.",
+    "en": "USB connection was disconnected."
+  },
+  "USB-Lesefehler": {
+    "de": "USB-Lesefehler",
+    "en": "USB read error"
+  },
+  "Zeitüberschreitung beim Schreiben auf USB.": {
+    "de": "Zeitüberschreitung beim Schreiben auf USB.",
+    "en": "Timed out writing to USB."
+  },
+  "Unerwartete Antwort des M5. Bitte neu verbinden.": {
+    "de": "Unerwartete Antwort des M5. Bitte neu verbinden.",
+    "en": "Unexpected M5 response. Reconnect."
+  },
+  "Ordner wählen …": {
+    "de": "Ordner wählen …",
+    "en": "Choose folder …"
+  },
+  "Ohne Sicherung: Die Löschung ist endgültig.": {
+    "de": "Ohne Sicherung: Die Löschung ist endgültig.",
+    "en": "Without backup: deletion is permanent."
+  },
+  "Sicherung in diesem Ordner; gelöscht wird erst nach erfolgreicher Prüfung.": {
+    "de": "Sicherung in diesem Ordner; gelöscht wird erst nach erfolgreicher Prüfung.",
+    "en": "Back up to this folder; deletion starts only after successful verification."
+  },
+  "Sicherungsordner nicht erreichbar oder nicht beschreibbar. Bitte einen Ordner wählen.": {
+    "de": "Sicherungsordner nicht erreichbar oder nicht beschreibbar. Bitte einen Ordner wählen.",
+    "en": "Backup folder is unavailable or not writable. Choose a folder."
+  },
+  "Bitte einen Ordner auf diesem Mac oder einem eingebundenen Laufwerk auswählen.": {
+    "de": "Bitte einen Ordner auf diesem Mac oder einem eingebundenen Laufwerk auswählen.",
+    "en": "Choose a folder on this Mac or a mounted drive."
+  },
+  "Der Sicherungsordner ist nicht erreichbar. Bitte einen vorhandenen Ordner auswählen.": {
+    "de": "Der Sicherungsordner ist nicht erreichbar. Bitte einen vorhandenen Ordner auswählen.",
+    "en": "The backup folder is unavailable. Choose an existing folder."
+  },
+  "Der Sicherungsordner ist nicht beschreibbar. Bitte einen anderen Ordner auswählen.": {
+    "de": "Der Sicherungsordner ist nicht beschreibbar. Bitte einen anderen Ordner auswählen.",
+    "en": "The backup folder is not writable. Choose another folder."
+  },
+  "Verbindung verloren – USB prüfen": {
+    "de": "Verbindung verloren – USB prüfen",
+    "en": "Connection lost – check USB"
+  },
+  "Verbunden": {
+    "de": "Verbunden",
+    "en": "Connected"
+  },
+  "Verbinde und lese Speicher …": {
+    "de": "Verbinde und lese Speicher …",
+    "en": "Connecting and reading storage …"
+  },
+  "\nVerbunden: {0}\nDateizugriff hat das laufende Python-Programm angehalten. «Neu starten» startet MicroPython neu.\n": {
+    "de": "\nVerbunden: {0}\nDateizugriff hat das laufende Python-Programm angehalten. «Neu starten» startet MicroPython neu.\n",
+    "en": "\nConnected: {0}\nFile access stopped the running Python program. “Restart” restarts MicroPython.\n"
+  },
+  "Verbunden · Programm angehalten": {
+    "de": "Verbunden · Programm angehalten",
+    "en": "Connected · Program stopped"
+  },
+  "\nGetrennt. Ein angehaltenes Programm bleibt angehalten.\n": {
+    "de": "\nGetrennt. Ein angehaltenes Programm bleibt angehalten.\n",
+    "en": "\nDisconnected. A stopped program remains stopped.\n"
+  },
+  "Bitte zuerst mit einem M5 verbinden.": {
+    "de": "Bitte zuerst mit einem M5 verbinden.",
+    "en": "Connect to an M5 first."
+  },
+  "Die Gerätesitzung hat sich seit der Auswahl geändert. Bitte aktualisieren und erneut auswählen.": {
+    "de": "Die Gerätesitzung hat sich seit der Auswahl geändert. Bitte aktualisieren und erneut auswählen.",
+    "en": "The device session has changed since this selection. Refresh and select again."
+  },
+  "Lese {0} …": {
+    "de": "Lese {0} …",
+    "en": "Reading {0} …"
+  },
+  "Prüfe Speicher und aktualisiere Dateien …": {
+    "de": "Prüfe Speicher und aktualisiere Dateien …",
+    "en": "Checking storage and refreshing files …"
+  },
+  "Speichergrösse für {0} unbekannt: {1}\n": {
+    "de": "Speichergrösse für {0} unbekannt: {1}\n",
+    "en": "Storage size for {0} is unknown: {1}\n"
+  },
+  "Ungültiger Dateiname: {0}": {
+    "de": "Ungültiger Dateiname: {0}",
+    "en": "Invalid file name: {0}"
+  },
+  "Ordner ist zu tief verschachtelt.": {
+    "de": "Ordner ist zu tief verschachtelt.",
+    "en": "Folder nesting is too deep."
+  },
+  "Mehrere Quelldateien heissen {0}. Bitte einzeln kopieren.": {
+    "de": "Mehrere Quelldateien heissen {0}. Bitte einzeln kopieren.",
+    "en": "Several source files are named {0}. Copy them separately."
+  },
+  "Ziel ist eine Datei statt ein Ordner: {0}": {
+    "de": "Ziel ist eine Datei statt ein Ordner: {0}",
+    "en": "Destination is a file instead of a folder: {0}"
+  },
+  "Ordner ist zu tief verschachtelt; möglicher Verweis-Kreis.": {
+    "de": "Ordner ist zu tief verschachtelt; möglicher Verweis-Kreis.",
+    "en": "Folder nesting is too deep; possible link cycle."
+  },
+  "Kopie fertig; Sicherung konnte nicht entfernt werden: {0}\n": {
+    "de": "Kopie fertig; Sicherung konnte nicht entfernt werden: {0}\n",
+    "en": "Copy complete; could not remove backup: {0}\n"
+  },
+  "Erstelle Ordner …": {
+    "de": "Erstelle Ordner …",
+    "en": "Creating folder …"
+  },
+  "Lese Bildvorschau …": {
+    "de": "Lese Bildvorschau …",
+    "en": "Reading image preview …"
+  },
+  "Lese Vorschau …": {
+    "de": "Lese Vorschau …",
+    "en": "Reading preview …"
+  },
+  "Bitte eine Textdatei auswählen.": {
+    "de": "Bitte eine Textdatei auswählen.",
+    "en": "Select a text file."
+  },
+  "Lese Vorschau … {0} %": {
+    "de": "Lese Vorschau … {0} %",
+    "en": "Reading preview … {0} %"
+  },
+  "Vorschau gelesen: %d Bytes in %.2f s\n": {
+    "de": "Vorschau gelesen: %d Bytes in %.2f s\n",
+    "en": "Preview read: %d bytes in %.2f s\n"
+  },
+  "Diese Datei ist keine UTF-8-Textdatei. Bitte zum Öffnen auf den Mac kopieren.": {
+    "de": "Diese Datei ist keine UTF-8-Textdatei. Bitte zum Öffnen auf den Mac kopieren.",
+    "en": "This is not a UTF-8 text file. Copy it to the Mac to open it."
+  },
+  "Lese Ausgangsstand für Live-Sync …": {
+    "de": "Lese Ausgangsstand für Live-Sync …",
+    "en": "Reading live sync baseline …"
+  },
+  "Live-Sync: M5-Ausgangsstand über 8 MiB.": {
+    "de": "Live-Sync: M5-Ausgangsstand über 8 MiB.",
+    "en": "Live sync: M5 baseline exceeds 8 MiB."
+  },
+  "Live-Sync: übertragen und neu starten …": {
+    "de": "Live-Sync: übertragen und neu starten …",
+    "en": "Live sync: transfer and restart …"
+  },
+  "Live-Sync-Sitzung beendet. Bitte neu aktivieren.": {
+    "de": "Live-Sync-Sitzung beendet. Bitte neu aktivieren.",
+    "en": "Live sync session ended. Enable it again."
+  },
+  "Ungültiger Live-Sync-Pfad.": {
+    "de": "Ungültiger Live-Sync-Pfad.",
+    "en": "Invalid live sync path."
+  },
+  "Live-Sync-Konflikt: M5-Datei geändert: {0}": {
+    "de": "Live-Sync-Konflikt: M5-Datei geändert: {0}",
+    "en": "Live sync conflict: M5 file changed: {0}"
+  },
+  "Live-Sync-Konflikt: neues Ziel existiert: {0}": {
+    "de": "Live-Sync-Konflikt: neues Ziel existiert: {0}",
+    "en": "Live sync conflict: new destination exists: {0}"
+  },
+  "Live-Sync-Konflikt während Sicherung: {0}": {
+    "de": "Live-Sync-Konflikt während Sicherung: {0}",
+    "en": "Live sync conflict during backup: {0}"
+  },
+  "Live-Sync-Rückleseprüfung fehlgeschlagen: {0}": {
+    "de": "Live-Sync-Rückleseprüfung fehlgeschlagen: {0}",
+    "en": "Live sync readback verification failed: {0}"
+  },
+  "✓ Live-Sync-Datei: {0}\n": {
+    "de": "✓ Live-Sync-Datei: {0}\n",
+    "en": "✓ Live sync file: {0}\n"
+  },
+  "✓ Live-Sync: {0} Dateien geprüft; Neustart angefordert.\n": {
+    "de": "✓ Live-Sync: {0} Dateien geprüft; Neustart angefordert.\n",
+    "en": "✓ Live sync: {0} files verified; restart requested.\n"
+  },
+  "Prüfe SHA-256 auf dem M5 …": {
+    "de": "Prüfe SHA-256 auf dem M5 …",
+    "en": "Checking SHA-256 on M5 …"
+  },
+  "Die Gerätesitzung hat gewechselt. Bitte Datei neu öffnen.": {
+    "de": "Die Gerätesitzung hat gewechselt. Bitte Datei neu öffnen.",
+    "en": "The device session has changed. Reopen the file."
+  },
+  "Sichere Original und speichere Datei …": {
+    "de": "Sichere Original und speichere Datei …",
+    "en": "Backing up original and saving file …"
+  },
+  "Die Verbindung oder das laufende Programm hat gewechselt. Text lokal sichern und die Datei neu vom M5 öffnen.": {
+    "de": "Die Verbindung oder das laufende Programm hat gewechselt. Text lokal sichern und die Datei neu vom M5 öffnen.",
+    "en": "The connection or running program has changed. Save your text locally and reopen the file from the M5."
+  },
+  "Der Editor unterstützt UTF-8-Text bis 1 MiB ohne Nullzeichen.": {
+    "de": "Der Editor unterstützt UTF-8-Text bis 1 MiB ohne Nullzeichen.",
+    "en": "The editor supports UTF-8 text up to 1 MiB without null characters."
+  },
+  "Die Datei auf dem M5 wurde inzwischen geändert. Nichts überschrieben. Text auf dem Mac sichern und die aktuelle Datei neu öffnen.": {
+    "de": "Die Datei auf dem M5 wurde inzwischen geändert. Nichts überschrieben. Text auf dem Mac sichern und die aktuelle Datei neu öffnen.",
+    "en": "The file on the M5 has changed. Nothing was overwritten. Save your text on the Mac and reopen the current file."
+  },
+  "Die M5-Datei hat sich während der Sicherung geändert. Nichts überschrieben. Sicherung: {0}": {
+    "de": "Die M5-Datei hat sich während der Sicherung geändert. Nichts überschrieben. Sicherung: {0}",
+    "en": "The M5 file changed during backup. Nothing was overwritten. Backup: {0}"
+  },
+  "Sichere M5-Dateien auf dem Mac …": {
+    "de": "Sichere M5-Dateien auf dem Mac …",
+    "en": "Backing up M5 files on this Mac …"
+  },
+  "Die gewünschte SD-Karte ist nicht verfügbar. Für eine reine Flash-Sicherung die SD-Auswahl ausschalten.": {
+    "de": "Die gewünschte SD-Karte ist nicht verfügbar. Für eine reine Flash-Sicherung die SD-Auswahl ausschalten.",
+    "en": "The requested SD card is unavailable. Deselect SD for a flash-only backup."
+  },
+  "Sicherung unvollständig: {0}\nBereits kopierte Dateien: {1}": {
+    "de": "Sicherung unvollständig: {0}\nBereits kopierte Dateien: {1}",
+    "en": "Backup incomplete: {0}\nFiles already copied: {1}"
+  },
+  "✓ Dateisicherung: {0} · {1} Dateien\n": {
+    "de": "✓ Dateisicherung: {0} · {1} Dateien\n",
+    "en": "✓ File backup: {0} · {1} files\n"
+  },
+  "Eine Geräteaktion läuft bereits. Bitte abwarten, aktualisieren und erneut verschieben.": {
+    "de": "Eine Geräteaktion läuft bereits. Bitte abwarten, aktualisieren und erneut verschieben.",
+    "en": "A device operation is already running. Wait, refresh, and move again."
+  },
+  "Die Geräteantwort enthält eine unvollständige Verschiebeliste. Bitte aktualisieren.": {
+    "de": "Die Geräteantwort enthält eine unvollständige Verschiebeliste. Bitte aktualisieren.",
+    "en": "The device response contains an incomplete move list. Refresh."
+  },
+  "Sichere und lösche Auswahl …": {
+    "de": "Sichere und lösche Auswahl …",
+    "en": "Backing up and deleting selection …"
+  },
+  "Lösche Auswahl …": {
+    "de": "Lösche Auswahl …",
+    "en": "Deleting selection …"
+  },
+  "Die erstellte Löschsicherung ist nicht mehr verfügbar. Auf dem M5 wurde nichts gelöscht.": {
+    "de": "Die erstellte Löschsicherung ist nicht mehr verfügbar. Auf dem M5 wurde nichts gelöscht.",
+    "en": "The deletion backup is no longer available. Nothing was deleted on the M5."
+  },
+  "Löschen fehlgeschlagen; bei Ordnern können Teile bereits entfernt sein. {0}": {
+    "de": "Löschen fehlgeschlagen; bei Ordnern können Teile bereits entfernt sein. {0}",
+    "en": "Deletion failed; parts of a folder may already have been removed. {0}"
+  },
+  "Gelöscht: {0}": {
+    "de": "Gelöscht: {0}",
+    "en": "Deleted: {0}"
+  },
+  " · Sicherung: {0}": {
+    "de": " · Sicherung: {0}",
+    "en": " · Backup: {0}"
+  },
+  "Bitte eine Python-Datei auswählen.": {
+    "de": "Bitte eine Python-Datei auswählen.",
+    "en": "Select a Python file."
+  },
+  "Startbefehl für {0} gesendet. Ausgaben und Laufzeitfehler erscheinen im Terminal.\n": {
+    "de": "Startbefehl für {0} gesendet. Ausgaben und Laufzeitfehler erscheinen im Terminal.\n",
+    "en": "Start command sent for {0}. Output and runtime errors appear in the terminal.\n"
+  },
+  "Autostart ist für Python-Dateien (.py) vorgesehen.": {
+    "de": "Autostart ist für Python-Dateien (.py) vorgesehen.",
+    "en": "Autostart is intended for Python files (.py)."
+  },
+  "Flash nicht verfügbar.": {
+    "de": "Flash nicht verfügbar.",
+    "en": "Flash is unavailable."
+  },
+  "Die ausgewählte Python-Datei ist nicht mehr vorhanden.": {
+    "de": "Die ausgewählte Python-Datei ist nicht mehr vorhanden.",
+    "en": "The selected Python file no longer exists."
+  },
+  "main.py ist ein Ordner. Autostart wurde nicht geändert.": {
+    "de": "main.py ist ein Ordner. Autostart wurde nicht geändert.",
+    "en": "main.py is a folder. Autostart was not changed."
+  },
+  "main.py wurde während der Sicherung verändert. Nichts überschrieben.": {
+    "de": "main.py wurde während der Sicherung verändert. Nichts überschrieben.",
+    "en": "main.py changed during backup. Nothing was overwritten."
+  },
+  "Der Startmodus wurde während der Sicherung verändert.": {
+    "de": "Der Startmodus wurde während der Sicherung verändert.",
+    "en": "The startup mode changed during backup."
+  },
+  "main.py ist inzwischen ein Ordner; nicht verändert.": {
+    "de": "main.py ist inzwischen ein Ordner; nicht verändert.",
+    "en": "main.py is now a folder; unchanged."
+  },
+  "main.py wurde zwischenzeitlich verändert und deshalb nicht überschrieben.": {
+    "de": "main.py wurde zwischenzeitlich verändert und deshalb nicht überschrieben.",
+    "en": "main.py changed and was therefore not overwritten."
+  },
+  "main.py fehlt. Original ist lokal gesichert; Gerätezustand bitte prüfen.": {
+    "de": "main.py fehlt. Original ist lokal gesichert; Gerätezustand bitte prüfen.",
+    "en": "main.py is missing. The original is backed up locally; check the device state."
+  },
+  "Eigene Änderungen wurden zurückgenommen oder waren noch nicht geschrieben.": {
+    "de": "Eigene Änderungen wurden zurückgenommen oder waren noch nicht geschrieben.",
+    "en": "Our changes were rolled back or had not been written yet."
+  },
+  "Wiederherstellung nicht vollständig: ": {
+    "de": "Wiederherstellung nicht vollständig: ",
+    "en": "Recovery incomplete: "
+  },
+  "Wirksam beim nächsten Neustart. Sicherung: {0}\n": {
+    "de": "Wirksam beim nächsten Neustart. Sicherung: {0}\n",
+    "en": "Takes effect on the next restart. Backup: {0}\n"
+  },
+  "Aktiviere UIFlow-Startmenü …": {
+    "de": "Aktiviere UIFlow-Startmenü …",
+    "en": "Enabling UIFlow startup menu …"
+  },
+  "Diese Firmware stellt keinen unterstützten UIFlow-Startmodus bereit.": {
+    "de": "Diese Firmware stellt keinen unterstützten UIFlow-Startmodus bereit.",
+    "en": "This firmware does not provide a supported UIFlow startup mode."
+  },
+  "UIFlow-Startmenü für den nächsten Neustart aktiviert. main.py bleibt erhalten.\n": {
+    "de": "UIFlow-Startmenü für den nächsten Neustart aktiviert. main.py bleibt erhalten.\n",
+    "en": "UIFlow startup menu enabled for the next restart. main.py is preserved.\n"
+  },
+  "Speicherwurzeln dürfen nicht umbenannt oder gelöscht werden.": {
+    "de": "Speicherwurzeln dürfen nicht umbenannt oder gelöscht werden.",
+    "en": "Storage roots must not be renamed or deleted."
+  },
+  "Dateien; kein Firmware- oder vollständiges Geräteabbild": {
+    "de": "Dateien; kein Firmware- oder vollständiges Geräteabbild",
+    "en": "Files; not firmware or a complete device image"
+  },
+  "Lokale Sicherung fehlgeschlagen. M5-Datei bleibt unverändert. {0}\n{1}": {
+    "de": "Lokale Sicherung fehlgeschlagen. M5-Datei bleibt unverändert. {0}\n{1}",
+    "en": "Local backup failed. M5 file remains unchanged. {0}\n{1}"
+  },
+  "Der gewählte Lösch-Sicherungsordner ist kein lokaler Dateipfad.": {
+    "de": "Der gewählte Lösch-Sicherungsordner ist kein lokaler Dateipfad.",
+    "en": "The selected deletion backup folder is not a local file path."
+  },
+  "Bitte einen Sicherungsordner auf einem eingebundenen Volume wählen.": {
+    "de": "Bitte einen Sicherungsordner auf einem eingebundenen Volume wählen.",
+    "en": "Choose a backup folder on a mounted volume."
+  },
+  "Der gewählte Lösch-Sicherungsordner ist nicht verfügbar oder kein Ordner: {0}": {
+    "de": "Der gewählte Lösch-Sicherungsordner ist nicht verfügbar oder kein Ordner: {0}",
+    "en": "The selected deletion backup folder is unavailable or not a folder: {0}"
+  },
+  "Das Volume für den gewählten Lösch-Sicherungsordner ist nicht eingebunden: {0}": {
+    "de": "Das Volume für den gewählten Lösch-Sicherungsordner ist nicht eingebunden: {0}",
+    "en": "The volume containing the selected deletion backup folder is not mounted: {0}"
+  },
+  "Der gewählte Lösch-Sicherungsordner ist nicht beschreibbar: {0}": {
+    "de": "Der gewählte Lösch-Sicherungsordner ist nicht beschreibbar: {0}",
+    "en": "The selected deletion backup folder is not writable: {0}"
+  },
+  "Sicherung unvollständig; M5-Dateien bleiben unverändert. {0}\n{1}": {
+    "de": "Sicherung unvollständig; M5-Dateien bleiben unverändert. {0}\n{1}",
+    "en": "Backup incomplete; M5 files remain unchanged. {0}\n{1}"
+  },
+  "\nNeustart angefordert. Neuer Dateizugriff hält das Programm wieder an.\n": {
+    "de": "\nNeustart angefordert. Neuer Dateizugriff hält das Programm wieder an.\n",
+    "en": "\nRestart requested. Further file access stops the program again.\n"
+  },
+  "Auf M5 speichern": {
+    "de": "Auf M5 speichern",
+    "en": "Save to M5"
+  },
+  "Auf Mac sichern …": {
+    "de": "Auf Mac sichern …",
+    "en": "Save to Mac …"
+  },
+  "Sicherung zeigen": {
+    "de": "Sicherung zeigen",
+    "en": "Show backup"
+  },
+  "M5-Stand beim Öffnen gelesen": {
+    "de": "M5-Stand beim Öffnen gelesen",
+    "en": "M5 revision read when opened"
+  },
+  "Sync prüfen": {
+    "de": "Sync prüfen",
+    "en": "Check sync"
+  },
+  "Vorschau": {
+    "de": "Vorschau",
+    "en": "Preview"
+  },
+  " · Vorschau": {
+    "de": " · Vorschau",
+    "en": " · Preview"
+  },
+  "Beispieldatei · Änderungen lassen sich auf dem Mac sichern; kein Gerätezugriff.": {
+    "de": "Beispieldatei · Änderungen lassen sich auf dem Mac sichern; kein Gerätezugriff.",
+    "en": "Sample file · Changes can be saved on the Mac; no device access."
+  },
+  "Änderungen werden erst mit «Auf M5 speichern» übertragen. Das Original wird vorher auf dem Mac gesichert.": {
+    "de": "Änderungen werden erst mit «Auf M5 speichern» übertragen. Das Original wird vorher auf dem Mac gesichert.",
+    "en": "Changes transfer only when you click “Save to M5”. The original is backed up on the Mac first."
+  },
+  "Sync-Stand unbekannt · Sitzung geändert": {
+    "de": "Sync-Stand unbekannt · Sitzung geändert",
+    "en": "Sync status unknown · Session changed"
+  },
+  " Der Text bleibt offen und kann auf dem Mac gesichert werden. Zum Speichern auf dem M5 die Datei neu öffnen.": {
+    "de": " Der Text bleibt offen und kann auf dem Mac gesichert werden. Zum Speichern auf dem M5 die Datei neu öffnen.",
+    "en": " The text stays open and can be saved on the Mac. Reopen the file to save it to the M5."
+  },
+  "🟡 Lokal geändert · M5 erneut prüfen": {
+    "de": "🟡 Lokal geändert · M5 erneut prüfen",
+    "en": "🟡 Local changes · Check M5 again"
+  },
+  "M5-Stand zuletzt gelesen · erneut prüfen": {
+    "de": "M5-Stand zuletzt gelesen · erneut prüfen",
+    "en": "M5 revision last read · Check again"
+  },
+  " · soeben geprüft": {
+    "de": " · soeben geprüft",
+    "en": " · Just checked"
+  },
+  "Sichere Original und speichere Änderungen auf dem M5 …": {
+    "de": "Sichere Original und speichere Änderungen auf dem M5 …",
+    "en": "Backing up original and saving changes to M5 …"
+  },
+  "✅ Übertragung geprüft · M5 erneut prüfbar": {
+    "de": "✅ Übertragung geprüft · M5 erneut prüfbar",
+    "en": "✅ Transfer verified · M5 can be checked again"
+  },
+  "Auf dem M5 gespeichert. Die vorherige Version liegt als Sicherung auf dem Mac.": {
+    "de": "Auf dem M5 gespeichert. Die vorherige Version liegt als Sicherung auf dem Mac.",
+    "en": "Saved to M5. The previous version is backed up on the Mac."
+  },
+  "Nicht gespeichert – deine Änderungen sind weiterhin im Editor.": {
+    "de": "Nicht gespeichert – deine Änderungen sind weiterhin im Editor.",
+    "en": "Not saved – your changes remain in the editor."
+  },
+  "Auf dem Mac gesichert: {0}. Die Datei auf dem M5 wurde dabei nicht geändert.": {
+    "de": "Auf dem Mac gesichert: {0}. Die Datei auf dem M5 wurde dabei nicht geändert.",
+    "en": "Saved on Mac: {0}. The file on the M5 was not changed."
+  },
+  "Änderungen in «{0}» sichern?": {
+    "de": "Änderungen in «{0}» sichern?",
+    "en": "Save changes to “{0}”?"
+  },
+  "Die Änderungen wurden noch nicht auf dem M5 gespeichert.": {
+    "de": "Die Änderungen wurden noch nicht auf dem M5 gespeichert.",
+    "en": "These changes have not been saved to the M5 yet."
+  },
+  "Datei konnte nicht gespeichert werden": {
+    "de": "Datei konnte nicht gespeichert werden",
+    "en": "Could not save file"
+  },
+  "Bereits vorhanden: {0}. Zum Ersetzen bitte ausdrücklich bestätigen.": {
+    "de": "Bereits vorhanden: {0}. Zum Ersetzen bitte ausdrücklich bestätigen.",
+    "en": "Already exists: {0}. Confirm explicitly to replace it."
+  },
+  "Der Speicher für «{0}» ist momentan nicht verfügbar (ENODEV). Falls der Pfad auf der SD-Karte liegt: Karte und Einbindung auf dem M5 prüfen, danach erneut aktualisieren.": {
+    "de": "Der Speicher für «{0}» ist momentan nicht verfügbar (ENODEV). Falls der Pfad auf der SD-Karte liegt: Karte und Einbindung auf dem M5 prüfen, danach erneut aktualisieren.",
+    "en": "Storage for “{0}” is currently unavailable (ENODEV). If this path is on SD, check the card and mount on the M5, then refresh."
+  },
+  "«{0}» ist nicht mehr vorhanden. Bitte den Dateibaum aktualisieren.": {
+    "de": "«{0}» ist nicht mehr vorhanden. Bitte den Dateibaum aktualisieren.",
+    "en": "“{0}” no longer exists. Refresh the file tree."
+  },
+  "Dateisystemzugriff auf «{0}» fehlgeschlagen (Fehler {1}).": {
+    "de": "Dateisystemzugriff auf «{0}» fehlgeschlagen (Fehler {1}).",
+    "en": "File system access to “{0}” failed (error {1})."
+  },
+  "✅ Aktuell": {
+    "de": "✅ Aktuell",
+    "en": "✅ Up to date"
+  },
+  "🟡 Lokal geändert": {
+    "de": "🟡 Lokal geändert",
+    "en": "🟡 Local changes"
+  },
+  "🔴 M5 geändert": {
+    "de": "🔴 M5 geändert",
+    "en": "🔴 M5 changed"
+  },
+  "⚠️ Beide geändert": {
+    "de": "⚠️ Beide geändert",
+    "en": "⚠️ Both changed"
+  },
+  "CSV-Vorschau ist auf 1 MiB begrenzt.": {
+    "de": "CSV-Vorschau ist auf 1 MiB begrenzt.",
+    "en": "CSV preview is limited to 1 MiB."
+  },
+  "Ungültige CSV-Anführungszeichen.": {
+    "de": "Ungültige CSV-Anführungszeichen.",
+    "en": "Invalid CSV quotation marks."
+  },
+  "CSV-Anführungszeichen nicht geschlossen.": {
+    "de": "CSV-Anführungszeichen nicht geschlossen.",
+    "en": "CSV quotation marks were not closed."
+  },
+  "Live-Sync braucht einen vorhandenen Ordner ohne Symlink-Pfad.": {
+    "de": "Live-Sync braucht einen vorhandenen Ordner ohne Symlink-Pfad.",
+    "en": "Live sync requires an existing folder without a symlink path."
+  },
+  "Live-Sync: mehr als 16 Ordnerebenen.": {
+    "de": "Live-Sync: mehr als 16 Ordnerebenen.",
+    "en": "Live sync: more than 16 folder levels."
+  },
+  "Live-Sync: mehr als 512 Einträge.": {
+    "de": "Live-Sync: mehr als 512 Einträge.",
+    "en": "Live sync: more than 512 entries."
+  },
+  "Live-Sync: Datei über 1 MiB: {0}": {
+    "de": "Live-Sync: Datei über 1 MiB: {0}",
+    "en": "Live sync: file exceeds 1 MiB: {0}"
+  },
+  "Live-Sync: maximal 128 Dateien / 8 MiB insgesamt.": {
+    "de": "Live-Sync: maximal 128 Dateien / 8 MiB insgesamt.",
+    "en": "Live sync: maximum 128 files / 8 MiB total."
+  },
+  "Live-Sync: Sonderdatei nicht unterstützt: {0}": {
+    "de": "Live-Sync: Sonderdatei nicht unterstützt: {0}",
+    "en": "Live sync: unsupported special file: {0}"
+  },
+  "JSON-Vorschau unterstützt UTF-8 bis 1 MiB.": {
+    "de": "JSON-Vorschau unterstützt UTF-8 bis 1 MiB.",
+    "en": "JSON preview supports UTF-8 up to 1 MiB."
+  },
+  " · Vorschau (nur lesen)": {
+    "de": " · Vorschau (nur lesen)",
+    "en": " · Preview (read only)"
+  },
+  "Spalte {0}": {
+    "de": "Spalte {0}",
+    "en": "Column {0}"
+  },
+  "Alle": {
+    "de": "Alle",
+    "en": "All"
+  },
+  "Gerät": {
+    "de": "Gerät",
+    "en": "Device"
+  },
+  "Fehler": {
+    "de": "Fehler",
+    "en": "Errors"
+  },
+  "Roh": {
+    "de": "Roh",
+    "en": "Raw"
+  },
+  "Ausgabe nach Herkunft filtern. Gerätefehler erscheinen auch unter Fehler.": {
+    "de": "Ausgabe nach Herkunft filtern. Gerätefehler erscheinen auch unter Fehler.",
+    "en": "Filter output by source. Device errors also appear under Errors."
+  },
+  "Vollständiger empfangener Stream, unverändert inklusive Prompts und Bannern. Filter sind in der Rohansicht ausgeschaltet.": {
+    "de": "Vollständiger empfangener Stream, unverändert inklusive Prompts und Bannern. Filter sind in der Rohansicht ausgeschaltet.",
+    "en": "Full received stream, unchanged, including prompts and banners. Filters are disabled in raw view."
+  },
+  "Terminalausgabe leeren": {
+    "de": "Terminalausgabe leeren",
+    "en": "Clear terminal output"
+  },
+  "Nur die sichtbare und gespeicherte Terminalausgabe leeren.": {
+    "de": "Nur die sichtbare und gespeicherte Terminalausgabe leeren.",
+    "en": "Clear only the displayed and stored terminal output."
+  },
+  "Terminalausgabe": {
+    "de": "Terminalausgabe",
+    "en": "Terminal output"
+  },
+  "ältere Ausgabe gekürzt": {
+    "de": "ältere Ausgabe gekürzt",
+    "en": "older output truncated"
+  },
+  "Prompts und wiederholte Standardbanner werden nur in der bereinigten Ansicht ausgeblendet. Warnungen und Fehler bleiben erhalten. Maximal 280'000 UTF-16-Zeichen werden gespeichert.": {
+    "de": "Prompts und wiederholte Standardbanner werden nur in der bereinigten Ansicht ausgeblendet. Warnungen und Fehler bleiben erhalten. Maximal 280'000 UTF-16-Zeichen werden gespeichert.",
+    "en": "Prompts and repeated standard banners are hidden only in the clean view. Warnings and errors are preserved. At most 280,000 UTF-16 characters are stored."
+  },
+  "USB suchen": {
+    "de": "USB suchen",
+    "en": "Find USB"
+  },
+  "Hochladen …": {
+    "de": "Hochladen …",
+    "en": "Upload …"
+  },
+  "Herunterladen …": {
+    "de": "Herunterladen …",
+    "en": "Download …"
+  },
+  "SD einbinden": {
+    "de": "SD einbinden",
+    "en": "Mount SD"
+  },
+  "Aktualisieren": {
+    "de": "Aktualisieren",
+    "en": "Refresh"
+  },
+  "Hochladen": {
+    "de": "Hochladen",
+    "en": "Upload"
+  },
+  "Herunterladen": {
+    "de": "Herunterladen",
+    "en": "Download"
+  },
+  "Bearbeiten": {
+    "de": "Bearbeiten",
+    "en": "Edit"
+  },
+  "Widerrufen": {
+    "de": "Widerrufen",
+    "en": "Undo"
+  },
+  "Wiederholen": {
+    "de": "Wiederholen",
+    "en": "Redo"
+  },
+  "Ausschneiden": {
+    "de": "Ausschneiden",
+    "en": "Cut"
+  },
+  "M5 File Manager beenden": {
+    "de": "M5 File Manager beenden",
+    "en": "Quit M5 File Manager"
+  },
+  "Live-Sync aktivieren …": {
+    "de": "Live-Sync aktivieren …",
+    "en": "Enable live sync …"
+  },
+  "Live-Sync stoppen": {
+    "de": "Live-Sync stoppen",
+    "en": "Stop live sync"
+  },
+  "Flash & SD-Karte": {
+    "de": "Flash & SD-Karte",
+    "en": "Flash & SD card"
+  },
+  "MicroPython-Befehl, z. B. print('Hallo M5')": {
+    "de": "MicroPython-Befehl, z. B. print('Hallo M5')",
+    "en": "MicroPython command, e.g. print('Hello M5')"
+  },
+  "Programmstart angefordert": {
+    "de": "Programmstart angefordert",
+    "en": "Program start requested"
+  },
+  "Als Autostart einrichten …": {
+    "de": "Als Autostart einrichten …",
+    "en": "Set as autostart …"
+  },
+  "{0}: {1} von {2} frei": {
+    "de": "{0}: {1} von {2} frei",
+    "en": "{0}: {1} free of {2}"
+  },
+  "   ·   Beispielwerte": {
+    "de": "   ·   Beispielwerte",
+    "en": "   ·   Sample values"
+  },
+  "Backup starten": {
+    "de": "Backup starten",
+    "en": "Start backup"
+  },
+  "SD-Karte ebenfalls sichern": {
+    "de": "SD-Karte ebenfalls sichern",
+    "en": "Include SD card in backup"
+  },
+  "«{0}» umbenennen": {
+    "de": "«{0}» umbenennen",
+    "en": "Rename “{0}”"
+  },
+  "«{0}» jetzt starten?": {
+    "de": "«{0}» jetzt starten?",
+    "en": "Run “{0}” now?"
+  },
+  "«{0}» als Autostart einrichten?": {
+    "de": "«{0}» als Autostart einrichten?",
+    "en": "Set “{0}” as autostart?"
+  },
+  "Autostart einrichten": {
+    "de": "Autostart einrichten",
+    "en": "Set autostart"
+  },
+  "Vorheriger Autostart gesichert: {0}\n": {
+    "de": "Vorheriger Autostart gesichert: {0}\n",
+    "en": "Previous autostart backed up: {0}\n"
+  },
+  "Hinweis: {0}\n": {
+    "de": "Hinweis: {0}\n",
+    "en": "Note: {0}\n"
+  },
+  "Live-Sync mit automatischem Neustart aktivieren?": {
+    "de": "Live-Sync mit automatischem Neustart aktivieren?",
+    "en": "Enable live sync with automatic restart?"
+  },
+  "Live-Sync aktivieren": {
+    "de": "Live-Sync aktivieren",
+    "en": "Enable live sync"
+  },
+  "Live-Sync: Ausgangsstand lesen …": {
+    "de": "Live-Sync: Ausgangsstand lesen …",
+    "en": "Live sync: reading baseline …"
+  },
+  "«{0}» auf dem Mac speichern": {
+    "de": "«{0}» auf dem Mac speichern",
+    "en": "Save “{0}” on this Mac"
+  },
+  "Hier speichern": {
+    "de": "Hier speichern",
+    "en": "Save here"
+  },
+  "Gespeichert: {0}\n": {
+    "de": "Gespeichert: {0}\n",
+    "en": "Saved: {0}\n"
+  },
+  "In {0}": {
+    "de": "In {0}",
+    "en": "In {0}"
+  },
+  "Terminalbefehl gesendet": {
+    "de": "Terminalbefehl gesendet",
+    "en": "Terminal command sent"
+  },
+  "Beispiel: main.py gelesen · 2 KB\n": {
+    "de": "Beispiel: main.py gelesen · 2 KB\n",
+    "en": "Example: main.py read · 2 KB\n"
+  },
+  "Quelldatei nicht lesbar": {
+    "de": "Quelldatei nicht lesbar",
+    "en": "Cannot read source file"
+  },
+  "Zieldatei kann nicht exklusiv erstellt werden": {
+    "de": "Zieldatei kann nicht exklusiv erstellt werden",
+    "en": "Cannot create destination file exclusively"
+  },
+  "USB-Port ist bereits belegt": {
+    "de": "USB-Port ist bereits belegt",
+    "en": "USB port is already in use"
+  },
+  "USB-Konfiguration nicht lesbar": {
+    "de": "USB-Konfiguration nicht lesbar",
+    "en": "Cannot read USB configuration"
+  },
+  "Letzter Schritt fehlgeschlagen": {
+    "de": "Letzter Schritt fehlgeschlagen",
+    "en": "Last step failed"
+  },
+  "Wiederherstellung fehlgeschlagen. Original aufbewahrt: {0}": {
+    "de": "Wiederherstellung fehlgeschlagen. Original aufbewahrt: {0}",
+    "en": "Recovery failed. Original retained at {0}"
+  },
+  "Kein M5 verbunden.": {
+    "de": "Kein M5 verbunden.",
+    "en": "No M5 connected."
+  },
+  "Vorher auf dem Mac sichern (empfohlen)": {
+    "de": "Vorher auf dem Mac sichern (empfohlen)",
+    "en": "Back up on this Mac first (recommended)"
+  },
+  "\nVerbindung verloren: {0}\n": {
+    "de": "\nVerbindung verloren: {0}\n",
+    "en": "\nConnection lost: {0}\n"
+  },
+  "Aktion fehlgeschlagen": {
+    "de": "Aktion fehlgeschlagen",
+    "en": "Operation failed"
+  },
+  "Trenne …": {
+    "de": "Trenne …",
+    "en": "Disconnecting …"
+  },
+  "Binde SD-Karte ein …": {
+    "de": "Binde SD-Karte ein …",
+    "en": "Mounting SD card …"
+  },
+  "Symbolische Links werden nicht kopiert: {0}": {
+    "de": "Symbolische Links werden nicht kopiert: {0}",
+    "en": "Symbolic links are not copied: {0}"
+  },
+  "Kopiere auf den M5 …": {
+    "de": "Kopiere auf den M5 …",
+    "en": "Copying to M5 …"
+  },
+  "\n✓ Upload abgeschlossen ({0} Auswahl(en)). Originale bleiben auf dem Mac.\n": {
+    "de": "\n✓ Upload abgeschlossen ({0} Auswahl(en)). Originale bleiben auf dem Mac.\n",
+    "en": "\n✓ Upload complete ({0} selection(s)). Originals remain on the Mac.\n"
+  },
+  "Kopiere auf den Mac …": {
+    "de": "Kopiere auf den Mac …",
+    "en": "Copying to Mac …"
+  },
+  "\n✓ Download: {0}\nOriginal bleibt auf dem M5.\n": {
+    "de": "\n✓ Download: {0}\nOriginal bleibt auf dem M5.\n",
+    "en": "\n✓ Download: {0}\nOriginal remains on the M5.\n"
+  },
+  "Wiederherstellung fehlgeschlagen. Original liegt weiterhin unter {0}.": {
+    "de": "Wiederherstellung fehlgeschlagen. Original liegt weiterhin unter {0}.",
+    "en": "Recovery failed. Original remains at {0}."
+  },
+  "✓ Gespeichert: {0} · Original: {1}\n": {
+    "de": "✓ Gespeichert: {0} · Original: {1}\n",
+    "en": "✓ Saved: {0} · Original: {1}\n"
+  },
+  "Benenne um …": {
+    "de": "Benenne um …",
+    "en": "Renaming …"
+  },
+  "Umbenannt: {0} → {1}\n": {
+    "de": "Umbenannt: {0} → {1}\n",
+    "en": "Renamed: {0} → {1}\n"
+  },
+  "Verschiebe Auswahl …": {
+    "de": "Verschiebe Auswahl …",
+    "en": "Moving selection …"
+  },
+  "Verschoben: {0} → {1}\n": {
+    "de": "Verschoben: {0} → {1}\n",
+    "en": "Moved: {0} → {1}\n"
+  },
+  "\nSicherung: {0}": {
+    "de": "\nSicherung: {0}",
+    "en": "\nBackup: {0}"
+  },
+  "Sende Python-Startbefehl …": {
+    "de": "Sende Python-Startbefehl …",
+    "en": "Sending Python start command …"
+  },
+  "Richte Autostart ein …": {
+    "de": "Richte Autostart ein …",
+    "en": "Configuring autostart …"
+  },
+  "Startmodus: {0}": {
+    "de": "Startmodus: {0}",
+    "en": "Startup mode: {0}"
+  },
+  "Autostart fehlgeschlagen: {0}\nSicherung: {1}\n": {
+    "de": "Autostart fehlgeschlagen: {0}\nSicherung: {1}\n",
+    "en": "Autostart failed: {0}\nBackup: {1}\n"
+  },
+  "Autostart eingerichtet: {0} → {1}. ": {
+    "de": "Autostart eingerichtet: {0} → {1}. ",
+    "en": "Autostart configured: {0} → {1}. "
+  },
+  "UIFlow startet main.py direkt. ": {
+    "de": "UIFlow startet main.py direkt. ",
+    "en": "UIFlow runs main.py directly. "
+  },
+  "main.py als MicroPython-Startdatei vorbereitet. ": {
+    "de": "main.py als MicroPython-Startdatei vorbereitet. ",
+    "en": "main.py prepared as the MicroPython startup file. "
+  },
+  "Startmodus konnte nicht sicher wiederhergestellt werden: {0}\nVorheriger Modus: {1}": {
+    "de": "Startmodus konnte nicht sicher wiederhergestellt werden: {0}\nVorheriger Modus: {1}",
+    "en": "Startup mode could not be restored safely: {0}\nPrevious mode: {1}"
+  },
+  "main.py direkt": {
+    "de": "main.py direkt",
+    "en": "main.py directly"
+  },
+  "Nur Netzwerk": {
+    "de": "Nur Netzwerk",
+    "en": "Network only"
+  },
+  "Startmenü und Netzwerk": {
+    "de": "Startmenü und Netzwerk",
+    "en": "Startup menu and network"
+  },
+  "Sende Terminalbefehl …": {
+    "de": "Sende Terminalbefehl …",
+    "en": "Sending terminal command …"
+  },
+  "Halte Python an …": {
+    "de": "Halte Python an …",
+    "en": "Stopping Python …"
+  },
+  "Starte M5-Programm neu …": {
+    "de": "Starte M5-Programm neu …",
+    "en": "Restarting M5 program …"
+  },
+  "Sync-Stand unbekannt": {
+    "de": "Sync-Stand unbekannt",
+    "en": "Sync status unknown"
+  },
+  "Text auf dem Mac sichern": {
+    "de": "Text auf dem Mac sichern",
+    "en": "Save text on this Mac"
+  },
+  "Verwerfen": {
+    "de": "Verwerfen",
+    "en": "Discard"
+  },
+  "CSV hat mehr als 128 Spalten.": {
+    "de": "CSV hat mehr als 128 Spalten.",
+    "en": "CSV has more than 128 columns."
+  },
+  "CSV hat mehr als 5000 Zeilen.": {
+    "de": "CSV hat mehr als 5000 Zeilen.",
+    "en": "CSV has more than 5000 rows."
+  },
+  "Live-Sync verfolgt keine Symlinks: {0}": {
+    "de": "Live-Sync verfolgt keine Symlinks: {0}",
+    "en": "Live sync does not follow symlinks: {0}"
+  },
+  "Bild nicht lesbar oder zu gross (8 MiB / 24 Megapixel).": {
+    "de": "Bild nicht lesbar oder zu gross (8 MiB / 24 Megapixel).",
+    "en": "Image is unreadable or too large (8 MiB / 24 megapixels)."
+  },
+  "CSV ist kein UTF-8-Text.": {
+    "de": "CSV ist kein UTF-8-Text.",
+    "en": "CSV is not UTF-8 text."
+  },
+  "{0} Protokollzeilen ausgeblendet": {
+    "de": "{0} Protokollzeilen ausgeblendet",
+    "en": "{0} protocol lines hidden"
+  },
+  "Ohne Speichern schliessen": {
+    "de": "Ohne Speichern schliessen",
+    "en": "Close without saving"
+  },
+  "Sprache / Language": {
+    "de": "Sprache / Language",
+    "en": "Language / Sprache"
+  },
+  "SD-Karte": {
+    "de": "SD-Karte",
+    "en": "SD card"
+  },
+  "Originalstream": {
+    "de": "Originalstream",
+    "en": "Original stream"
+  },
+  "Bereinigt": {
+    "de": "Bereinigt",
+    "en": "Clean view"
+  },
+  "Aktivieren": {
+    "de": "Aktivieren",
+    "en": "Enable"
+  },
+  "Erstellen": {
+    "de": "Erstellen",
+    "en": "Create"
+  },
+  "SD-Karte unter /sd nicht verfügbar (Fehler ": {
+    "de": "SD-Karte unter /sd nicht verfügbar (Fehler ",
+    "en": "SD card at /sd unavailable (error "
+  },
+  "). Flash bleibt zugänglich.": {
+    "de": "). Flash bleibt zugänglich.",
+    "en": "). Flash remains accessible."
+  },
+  "Die Firmware kann ihre Mount-Tabelle nicht sicher lesen: ": {
+    "de": "Die Firmware kann ihre Mount-Tabelle nicht sicher lesen: ",
+    "en": "The firmware cannot safely read its mount table: "
+  },
+  "Die Firmware liefert keine auswertbare Mount-Tabelle.": {
+    "de": "Die Firmware liefert keine auswertbare Mount-Tabelle.",
+    "en": "The firmware does not provide a readable mount table."
+  },
+  "Die Firmware liefert eine unbekannte Mount-Tabelle.": {
+    "de": "Die Firmware liefert eine unbekannte Mount-Tabelle.",
+    "en": "The firmware provides an unknown mount table."
+  },
+  "SD einbinden wird von dieser Firmware nicht sicher unterstuetzt: vfs fehlt.": {
+    "de": "SD einbinden wird von dieser Firmware nicht sicher unterstuetzt: vfs fehlt.",
+    "en": "SD mounting is not safely supported by this firmware: vfs is missing."
+  },
+  "SD einbinden erfordert eine lesbare vfs.mount()-Tabelle.": {
+    "de": "SD einbinden erfordert eine lesbare vfs.mount()-Tabelle.",
+    "en": "SD mounting requires a readable vfs.mount() table."
+  },
+  "/sd ist bereits eingebunden, aber nicht lesbar. Der bestehende Mount bleibt unveraendert: ": {
+    "de": "/sd ist bereits eingebunden, aber nicht lesbar. Der bestehende Mount bleibt unveraendert: ",
+    "en": "/sd is already mounted but unreadable. The existing mount is unchanged: "
+  },
+  "SD-Karte ist bereits auf /sd eingebunden. Der vorhandene Mount bleibt unveraendert.": {
+    "de": "SD-Karte ist bereits auf /sd eingebunden. Der vorhandene Mount bleibt unveraendert.",
+    "en": "SD card is already mounted at /sd. The existing mount is unchanged."
+  },
+  "Unter /sd besteht bereits ein Mount. Dieser wird nicht ueberdeckt.": {
+    "de": "Unter /sd besteht bereits ein Mount. Dieser wird nicht ueberdeckt.",
+    "en": "A mount already exists at /sd. It will not be covered."
+  },
+  "Ein vorhandener Mount kann nicht als interner Flash bestaetigt werden: ": {
+    "de": "Ein vorhandener Mount kann nicht als interner Flash bestaetigt werden: ",
+    "en": "An existing mount cannot be confirmed as internal flash: "
+  },
+  ". Keine zweite SD-Initialisierung; vorhandene Mounts bleiben unveraendert.": {
+    "de": ". Keine zweite SD-Initialisierung; vorhandene Mounts bleiben unveraendert.",
+    "en": ". No second SD initialization; existing mounts are unchanged."
+  },
+  "Der Pfad /sd ist bereits belegt, aber kein bestaetigter SD-Mount. Er wird nicht ueberdeckt.": {
+    "de": "Der Pfad /sd ist bereits belegt, aber kein bestaetigter SD-Mount. Er wird nicht ueberdeckt.",
+    "en": "The path /sd is already occupied but is not a confirmed SD mount. It will not be covered."
+  },
+  "Der Pfad /sd kann nicht sicher geprueft werden: ": {
+    "de": "Der Pfad /sd kann nicht sicher geprueft werden: ",
+    "en": "The path /sd cannot be checked safely: "
+  },
+  "Der vorhandene Pfad /sd wird nicht ueberdeckt.": {
+    "de": "Der vorhandene Pfad /sd wird nicht ueberdeckt.",
+    "en": "The existing path /sd will not be covered."
+  },
+  "Kein geprueftes SD-Profil fuer diese Firmware: ": {
+    "de": "Kein geprueftes SD-Profil fuer diese Firmware: ",
+    "en": "No verified SD profile for this firmware: "
+  },
+  "Diese Firmware bietet keinen machine.SDCard-Treiber.": {
+    "de": "Diese Firmware bietet keinen machine.SDCard-Treiber.",
+    "en": "This firmware does not provide a machine.SDCard driver."
+  },
+  "Ein vorheriger SD-Zustand ist noch aufbewahrt. Keine zweite Initialisierung; Geraet bei Bedarf kontrolliert neu starten.": {
+    "de": "Ein vorheriger SD-Zustand ist noch aufbewahrt. Keine zweite Initialisierung; Geraet bei Bedarf kontrolliert neu starten.",
+    "en": "A previous SD state is still retained. No second initialization; restart the device explicitly if needed."
+  },
+  "Treiber starten": {
+    "de": "Treiber starten",
+    "en": "driver startup"
+  },
+  "Karte lesen": {
+    "de": "Karte lesen",
+    "en": "card read"
+  },
+  "Die SD-Karte liefert keine gueltige Groesse.": {
+    "de": "Die SD-Karte liefert keine gueltige Groesse.",
+    "en": "The SD card does not report a valid size."
+  },
+  "Dateisystem einbinden": {
+    "de": "Dateisystem einbinden",
+    "en": "file system mount"
+  },
+  "Mount pruefen": {
+    "de": "Mount pruefen",
+    "en": "mount check"
+  },
+  "Der neue Mount wurde nicht bestaetigt.": {
+    "de": "Der neue Mount wurde nicht bestaetigt.",
+    "en": "The new mount was not confirmed."
+  },
+  "Verzeichnis lesen": {
+    "de": "Verzeichnis lesen",
+    "en": "directory read"
+  },
+  "SD-Karte: ": {
+    "de": "SD-Karte: ",
+    "en": "SD card: "
+  },
+  " fehlgeschlagen: ": {
+    "de": " fehlgeschlagen: ",
+    "en": " failed: "
+  },
+  " Der SD-Zustand bleibt aufbewahrt; kein bestehender Mount wurde getrennt.": {
+    "de": " Der SD-Zustand bleibt aufbewahrt; kein bestehender Mount wurde getrennt.",
+    "en": " The SD state is retained; no existing mount was detached."
+  },
+  " Der native Treiberstart hat kein Handle geliefert; vor einem neuen Versuch das Geraet kontrolliert neu starten.": {
+    "de": " Der native Treiberstart hat kein Handle geliefert; vor einem neuen Versuch das Geraet kontrolliert neu starten.",
+    "en": " Native driver startup returned no handle; restart the device explicitly before retrying."
+  },
+  " Zusaetzlich ist die Treiberfreigabe fehlgeschlagen; Referenz aufbewahrt: ": {
+    "de": " Zusaetzlich ist die Treiberfreigabe fehlgeschlagen; Referenz aufbewahrt: ",
+    "en": " Driver cleanup also failed; reference retained: "
+  },
+  "SD-Karte wurde auf /sd eingebunden (": {
+    "de": "SD-Karte wurde auf /sd eingebunden (",
+    "en": "SD card mounted at /sd ("
+  },
+  "CRC der empfangenen Daten falsch": {
+    "de": "CRC der empfangenen Daten falsch",
+    "en": "Received data CRC mismatch"
+  },
+  "Ziel ist ein Ordner": {
+    "de": "Ziel ist ein Ordner",
+    "en": "Destination is a folder"
+  },
+  "Dateigroesse nach Umbenennung falsch": {
+    "de": "Dateigroesse nach Umbenennung falsch",
+    "en": "File size mismatch after rename"
+  },
+  "Wiederherstellung fehlgeschlagen. Original gesichert unter ": {
+    "de": "Wiederherstellung fehlgeschlagen. Original gesichert unter ",
+    "en": "Recovery failed. Original retained at "
+  },
+  "Die Speichergrenzen sind nicht sicher lesbar. Bitte stattdessen kopieren: ": {
+    "de": "Die Speichergrenzen sind nicht sicher lesbar. Bitte stattdessen kopieren: ",
+    "en": "Storage boundaries cannot be read safely. Copy instead: "
+  },
+  "Die Mount-Tabelle ist nicht auswertbar. Bitte stattdessen kopieren.": {
+    "de": "Die Mount-Tabelle ist nicht auswertbar. Bitte stattdessen kopieren.",
+    "en": "The mount table cannot be interpreted. Copy instead."
+  },
+  "Die Mount-Tabelle ist nicht eindeutig. Bitte stattdessen kopieren.": {
+    "de": "Die Mount-Tabelle ist nicht eindeutig. Bitte stattdessen kopieren.",
+    "en": "The mount table is ambiguous. Copy instead."
+  },
+  "Der Speicher fuer diesen Pfad ist nicht bestaetigt: ": {
+    "de": "Der Speicher fuer diesen Pfad ist nicht bestaetigt: ",
+    "en": "Storage for this path is not confirmed: "
+  },
+  ". Bitte stattdessen kopieren.": {
+    "de": ". Bitte stattdessen kopieren.",
+    "en": ". Copy instead."
+  },
+  "Kein regulaerer Ordner: ": {
+    "de": "Kein regulaerer Ordner: ",
+    "en": "Not a regular folder: "
+  },
+  "Bereits vorhanden: ": {
+    "de": "Bereits vorhanden: ",
+    "en": "Already exists: "
+  },
+  ". Verschieben ersetzt keine Eintraege.": {
+    "de": ". Verschieben ersetzt keine Eintraege.",
+    "en": ". Moving does not replace entries."
+  },
+  "Ein Speicher-Stammordner oder Ordner mit eingebundenem Speicher darf nicht verschoben werden: ": {
+    "de": "Ein Speicher-Stammordner oder Ordner mit eingebundenem Speicher darf nicht verschoben werden: ",
+    "en": "A storage root or folder containing a mount must not be moved: "
+  },
+  "Verschieben zwischen verschiedenen Speichern wird nicht unterstuetzt. Bitte stattdessen kopieren: ": {
+    "de": "Verschieben zwischen verschiedenen Speichern wird nicht unterstuetzt. Bitte stattdessen kopieren: ",
+    "en": "Moving between different storage volumes is not supported. Copy instead: "
+  },
+  "Dieser Dateityp kann nicht sicher verschoben werden: ": {
+    "de": "Dieser Dateityp kann nicht sicher verschoben werden: ",
+    "en": "This file type cannot be moved safely: "
+  },
+  "Der Zielpfad wuerde einen eingebundenen Speicher ueberdecken: ": {
+    "de": "Der Zielpfad wuerde einen eingebundenen Speicher ueberdecken: ",
+    "en": "The destination path would cover a mount: "
+  },
+  "Die Speichereinbindung hat sich seit der Vorpruefung veraendert.": {
+    "de": "Die Speichereinbindung hat sich seit der Vorpruefung veraendert.",
+    "en": "Storage mounts have changed since preflight."
+  },
+  "Der Quellordner enthaelt jetzt einen Mount.": {
+    "de": "Der Quellordner enthaelt jetzt einen Mount.",
+    "en": "The source folder now contains a mount."
+  },
+  "Der Dateityp hat sich seit der Vorpruefung veraendert.": {
+    "de": "Der Dateityp hat sich seit der Vorpruefung veraendert.",
+    "en": "The file type has changed since preflight."
+  },
+  "Starten": {
+    "de": "Starten",
+    "en": "Run"
+  },
+  "USB-Schreibfehler": {
+    "de": "USB-Schreibfehler",
+    "en": "USB write error"
+  },
+  "Getrennt": {
+    "de": "Getrennt",
+    "en": "Disconnected"
+  },
+  "Schliessen": {
+    "de": "Schliessen",
+    "en": "Close"
+  },
+  "Nicht speichern": {
+    "de": "Nicht speichern",
+    "en": "Do not save"
+  }
+}
