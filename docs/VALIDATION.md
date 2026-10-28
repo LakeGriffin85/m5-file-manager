@@ -26,3 +26,9 @@ The universal production executable contains arm64 and x86_64 slices. Native bui
 The app is ad-hoc signed, not Developer ID-signed or Apple-notarized. Intel execution, macOS 14 execution and real-board use of this public edition have not been tested. AppKit demo launching requires an interactive macOS session; it cannot be validated inside a shell-only sandbox.
 
 This report records local checks, not a GitHub publication or blanket hardware compatibility claim. Review current sources and artifacts again when preparing a later release.
+
+## Publication follow-up – 2026-10-28
+
+The unchanged public source passed 2,188 automated checks again: all suites in the table except the 17 native language UI checks. Filesystem fallback used local temporary storage, not a NAS. The earlier native UI evidence remains dated 2026-10-26. No physical USB device was used for this publication validation.
+
+The publication scanner and strict signature verification passed. The published app ZIP and checksum were downloaded anonymously from GitHub and matched the local reviewed artifacts. ZIP integrity and archive-entry checks passed. This does not establish Apple notarization, downloaded-app launch acceptance, Intel execution, macOS 14 execution or physical-board compatibility.
