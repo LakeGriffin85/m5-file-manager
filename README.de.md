@@ -19,7 +19,7 @@ Zum Ausführen braucht es weder Python noch Node oder Docker. Zum Bauen werden A
 
 ## Verwendung
 
-1. App bauen und `dist/M5 File Manager.app` öffnen.
+1. [Universal-Vorschau-ZIP laden](https://github.com/LakeGriffin85/m5-file-manager/releases/download/v1.1.0-preview.1/M5-File-Manager-1.1.0-preview-universal.zip), entpacken und **M5 File Manager.app** öffnen oder die App selbst bauen. Auf der [Release-Seite](https://github.com/LakeGriffin85/m5-file-manager/releases/tag/v1.1.0-preview.1) stehen Prüfsumme und Vorschau-Grenzen.
 2. Board anschliessen, Port wählen und **Connect** drücken. Es wird nie automatisch verbunden.
 3. Flash oder SD aufklappen. Vom Finder ins Fenster ziehen lädt hoch; vom Dateibaum in den Finder ziehen lädt herunter. Die Knöpfe bieten dieselben Aktionen.
 4. Textdatei doppelklicken und bearbeiten. **Auf M5 speichern** überträgt Änderungen nach lokaler Sicherung des bisherigen Inhalts.

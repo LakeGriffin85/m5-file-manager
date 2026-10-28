@@ -18,7 +18,7 @@ A native macOS utility for browsing and transferring files on M5Stack devices ru
 
 ## Quick start
 
-1. Build the app as described below and open `dist/M5 File Manager.app`.
+1. Download the [universal preview ZIP](https://github.com/LakeGriffin85/m5-file-manager/releases/download/v1.1.0-preview.1/M5-File-Manager-1.1.0-preview-universal.zip), extract it and open **M5 File Manager.app**, or build from source below. The [release page](https://github.com/LakeGriffin85/m5-file-manager/releases/tag/v1.1.0-preview.1) includes its SHA-256 checksum and preview limitations.
 2. Connect the board, select its USB port, and click **Connect**. There is no automatic connection.
 3. Expand flash or SD. Drag from Finder to upload, or drag from the file tree to Finder to download. Buttons offer the same operations.
 4. Double-click `.py`, `.txt`, `.json` or `.csv` to open the editor. Save to the M5 explicitly; the previous file is backed up locally first.
@@ -72,7 +72,7 @@ To make a local preview archive after building:
 ./scripts/package.sh
 ```
 
-See [publication notes](docs/PUBLICATION.md) for the remaining distribution checks. Current regression tests simulate a device with a pseudo-terminal; they are not a substitute for testing your own board and firmware.
+See the [preview release](https://github.com/LakeGriffin85/m5-file-manager/releases/tag/v1.1.0-preview.1) and [publication notes](docs/PUBLICATION.md) for distribution status. Current regression tests simulate a device with a pseudo-terminal; they are not a substitute for testing your own board and firmware.
 
 ## License and project scope
 
